@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="id">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="Bucin Gacha Machine, a kawaii interactive Three.js gachapon prototype with romantic Indonesian messages."
+    />
+    <title>Bucin Gacha Machine</title>
+    <link
+      rel="icon"
+      href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Ctext y='50' x='8' font-size='44'%3E%F0%9F%92%96%3C/text%3E%3C/svg%3E"
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Caveat:wght@600;700&family=Klee+One:wght@400;600&family=Nunito:wght@600;700;800&family=Pacifico&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="/style.css" />
+    <script type="importmap">
+      {
+        "imports": {
+          "three": "https://cdn.jsdelivr.net/npm/three@0.158.0/build/three.module.js",
+          "three/addons/": "https://cdn.jsdelivr.net/npm/three@0.158.0/examples/jsm/",
+          "gsap": "https://esm.sh/gsap@3.12.5",
+          "gsap/CustomEase": "https://esm.sh/gsap@3.12.5/CustomEase",
+          "gsap/ScrollTrigger": "https://esm.sh/gsap@3.12.5/ScrollTrigger",
+          "gsap/TextPlugin": "https://esm.sh/gsap@3.12.5/TextPlugin",
+          "animejs": "https://cdn.jsdelivr.net/npm/animejs@3.2.2/lib/anime.es.js",
+          "lenis": "https://cdn.jsdelivr.net/npm/@studio-freight/lenis@1.0.42/+esm",
+          "barba": "https://cdn.jsdelivr.net/npm/@barba/core@2.10.3/+esm"
+        }
+      }
+    </script>
+  </head>
+  <body>
+    <div class="loading-screen" data-loader>
+      <div class="loader-copy">Loading love capsule</div>
+      <div class="loader-track"><span data-loader-bar></span></div>
+    </div>
+
+    <div class="radial-wipe" data-radial-wipe></div>
+    <canvas id="scene-canvas" aria-label="3D Bucin Gacha Machine"></canvas>
+
+    <div class="ambient-layer" aria-hidden="true">
+      <span class="floaty heart h1">♥</span>
+      <span class="floaty heart h2">♥</span>
+      <span class="floaty heart h3">♥</span>
+      <span class="floaty sparkle s1">✦</span>
+      <span class="floaty sparkle s2">✧</span>
+      <span class="floaty flower f1">✿</span>
+      <span class="floaty flower f2">✿</span>
+    </div>
+
+    <main id="barba-wrapper" data-barba="wrapper">
+      <section
+        class="state-panel state-idle is-active"
+        data-barba="container"
+        data-barba-namespace="idle"
+        data-state-panel="idle"
+      >
+        <div class="top-copy">
+          <p class="eyebrow">Bucin Capsule Club</p>
+          <h1>Gacha Machine ♥</h1>
+        </div>
+        <div class="machine-overlay" aria-label="Gacha machine controls">
+          <div class="love-badge">♥ Insert Love ♥</div>
+          <button class="primary-button putar-button" data-spin-button type="button">
+            <span>🎀 Putar!</span>
+          </button>
+        </div>
+        <div class="scroll-hint">scroll pelan, mesinnya ikut malu-malu</div>
+      </section>
+
+      <section class="state-panel state-slot" data-state-panel="slot" data-barba-namespace="dispensed">
+        <div class="status-pill">capsule turun</div>
+        <button class="slot-ball-button" data-open-capsule type="button" aria-label="Buka kapsul cinta">
+          <span class="slot-ball-shine"></span>
+        </button>
+        <p class="tiny-note">ketuk kapsulnya</p>
+      </section>
+
+      <section class="state-panel state-message" data-state-panel="message" data-barba-namespace="message">
+        <article class="message-card" data-message-card>
+          <span class="paper-knot">💌</span>
+          <p data-message-text></p>
+        </article>
+        <button class="secondary-button" data-reset-button type="button">Putar Lagi?</button>
+      </section>
+    </main>
+
+    <div class="particles-layer" data-particles aria-hidden="true"></div>
+
+    <script type="module" src="/main.js"></script>
+  </body>
+</html>
