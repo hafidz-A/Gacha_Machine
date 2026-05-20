@@ -16,6 +16,7 @@ export const messages = [
   "Jangan lupa makan ya, yang penting kamu sehat 🍱",
   "Aku simpan satu doa kecil: semoga kamu selalu merasa dicintai ✨",
   "Kalau dunia ramai, sini dulu, aku tenangin pelan-pelan 🫧",
+  "Apit sayang dea sepuluh juta ribu kali 🌸🤗"
 ];
 
 export function getRandomMessage(random = Math.random) {
