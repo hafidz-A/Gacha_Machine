@@ -16,9 +16,18 @@ export const messages = [
   "Jangan lupa makan ya, yang penting kamu sehat 🍱",
   "Aku simpan satu doa kecil: semoga kamu selalu merasa dicintai ✨",
   "Kalau dunia ramai, sini dulu, aku tenangin pelan-pelan 🫧",
-  "Apit sayang dea sepuluh juta ribu kali 🌸🤗"
+  "Apit sayang dea sepuluh juta ribu kali 🌸🤗",
 ];
 
+export const openedMessages = new Set();
+
 export function getRandomMessage(random = Math.random) {
-  return messages[Math.floor(random() * messages.length)];
+  if (openedMessages.size >= messages.length) {
+    openedMessages.clear();
+  }
+
+  const unopenedMessages = messages.filter((message) => !openedMessages.has(message));
+  const selectedMessage = unopenedMessages[Math.floor(random() * unopenedMessages.length)];
+  openedMessages.add(selectedMessage);
+  return selectedMessage;
 }
