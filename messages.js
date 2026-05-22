@@ -1,7 +1,7 @@
 export const messages = [
-  "Dedey sayang semangat kerjanya yaa! sebentar lagi pulang ke palembang🤗🫶",
-  "Dari sekian banyak orang di dunia ini, hati aku malah milih kamu dan aku nggak menyesal sama sekali. 🩷",
-  "Spin pertama mungkin keberuntungan, tapi bertahan sama kamu itu pilihan.💎",
+  "Jika aku diberi satu permintaan ajaib hari ini, aku hanya ingin terus mengulang tawa yang sama bersamamu sampai kita menua nanti.🤗",
+  "Senyummu adalah keajaiban kecil yang selalu berhasil membuat hariku yang paling berantakan sekalipun menjadi sempurna. 🩷",
+  "Tolong tanggung jawab! Kamu resmi bikin aku amnesia sama yang namanya sedih. 🥰",
 ];
 
 export const openedMessages = new Set();
