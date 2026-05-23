@@ -1,7 +1,5 @@
 export const messages = [
-  "Jika aku diberi satu permintaan ajaib hari ini, aku hanya ingin terus mengulang tawa yang sama bersamamu sampai kita menua nanti.🤗",
-  "Senyummu adalah keajaiban kecil yang selalu berhasil membuat hariku yang paling berantakan sekalipun menjadi sempurna. 🩷",
-  "Tolong tanggung jawab! Kamu resmi bikin aku amnesia sama yang namanya sedih. 🥰",
+  "Hai mbak pacar, semoga langgeng ya kita🤗",
 ];
 
 export const openedMessages = new Set();
