@@ -1,5 +1,5 @@
 export const messages = [
-  "Hai mbak pacar, semoga langgeng ya kita🤗",
+  "H+1 jadian and forever to go yaa?💕",
 ];
 
 export const openedMessages = new Set();
