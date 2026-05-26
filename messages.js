@@ -1,7 +1,6 @@
 export const messages = [
-  "Waktu paling berharga yang aku punya adalah waktu yang apit habiskan bersama dedey 🕰️",
-  "Capek boleh, tapi jangan lupa kamu dicintai dengan sepenuh hati ya 💌",
-  "Makasih ya, udah mau jadi bagian dari cerita hidupku yang paling aku sukai 🌸",
+  "Kalau ada kata lebih daripada cantik, apit yakin dedey bisa dideskripsiin pake kata itu",
+  "Semangat puasanya yaa 🌸",
 ];
 
 export const openedMessages = new Set();
