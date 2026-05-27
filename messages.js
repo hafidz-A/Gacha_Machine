@@ -1,6 +1,6 @@
 export const messages = [
-  "Kalau ada kata lebih daripada cantik, apit yakin dedey bisa dideskripsiin pake kata itu",
-  "Semangat puasanya yaa 🌸",
+  "selamat kamu naik level! skill bertambah: disukai apit +1🫶🏻",
+  "Happy ied sayaaangg 🤏🏼💕",
 ];
 
 export const openedMessages = new Set();
