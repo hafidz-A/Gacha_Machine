@@ -1,6 +1,6 @@
 export const messages = [
-  "selamat kamu naik level! skill bertambah: disukai apit +1🫶🏻",
-  "Happy ied sayaaangg 🤏🏼💕",
+  "Jangan gerak! Kamu sudah dikepung oleh cintaku dari segala arah.🤗🥰",
+  "PERINGATAN! Kamu kena denda satu pelukan ekstra karena hari ini terdeteksi terlalu gemas.🤏🤏🤏🤏🤏",
 ];
 
 export const openedMessages = new Set();
