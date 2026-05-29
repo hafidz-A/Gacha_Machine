@@ -1,6 +1,6 @@
 export const messages = [
-  "Jangan gerak! Kamu sudah dikepung oleh cintaku dari segala arah.🤗🥰",
-  "PERINGATAN! Kamu kena denda satu pelukan ekstra karena hari ini terdeteksi terlalu gemas.🤏🤏🤏🤏🤏",
+  "Perahu apa yang bisa bawa kita ke bahtera yang lebih besar kak? 😞💗",
+  "Pengen peluk tapi jauh, but i offer you peluk jauh 🤗",
 ];
 
 export const openedMessages = new Set();
