@@ -1,6 +1,6 @@
 export const messages = [
-  "Perahu apa yang bisa bawa kita ke bahtera yang lebih besar kak? 😞💗",
-  "Pengen peluk tapi jauh, but i offer you peluk jauh 🤗",
+  "kangenn bangett sayang...😔💖",
+  "tece gasalah ngomong aped se loving itu sama dedey. I'm really loving you🥰",
 ];
 
 export const openedMessages = new Set();
