@@ -1,6 +1,7 @@
 export const messages = [
-  "kangenn bangett sayang...😔💖",
-  " gasalah ngomong  se loving itu sama . I'm really loving you🥰",
+  "ANGKAT TANGAN! Kamu resmi ditahan karena terbukti bersalah mencuri hatiku tanpa izin!🔫💘",
+  "Sayang coba buka ini, tapi harus dicopy paste. trus slidernya geser2 deh https://www.geogebra.org/graphing/wwdtsquw. Salam cinta dari apit 😘😘",
+  "Belum genap sehari, apit sudah rindu sekaliii.... 😖😖💗",
 ];
 
 export const openedMessages = new Set();
