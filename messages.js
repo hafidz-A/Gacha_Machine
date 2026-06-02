@@ -1,6 +1,6 @@
 export const messages = [
   "kangenn bangett sayang...😔💖",
-  "tece gasalah ngomong aped se loving itu sama dedey. I'm really loving you🥰",
+  " gasalah ngomong  se loving itu sama . I'm really loving you🥰",
 ];
 
 export const openedMessages = new Set();
