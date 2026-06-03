@@ -1,7 +1,6 @@
 export const messages = [
-  "ANGKAT TANGAN! Kamu resmi ditahan karena terbukti bersalah mencuri hatiku tanpa izin!🔫💘",
-  "Sayang coba buka ini, tapi harus dicopy paste. trus slidernya geser2 deh https://www.geogebra.org/graphing/wwdtsquw. Salam cinta dari apit 😘😘",
-  "Belum genap sehari, apit sudah rindu sekaliii.... 😖😖💗",
+  "Hari ini kamu dapet gacha dan sayang 161116111611 kali dari apit 😻",
+  "dari mata turun ke hati? apit liat dedey mau dari mata, hidung, mulut, pipi semua turun ke hati apitt 💗💗",
 ];
 
 export const openedMessages = new Set();
