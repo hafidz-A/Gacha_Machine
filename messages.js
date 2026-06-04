@@ -1,7 +1,8 @@
 export const messages = [
   "Pengen deh... pengen kamu 😖",
   "Excuse me? Why are you so beautful.🫠",
-  "Ihh itu kamu udah lama dedeyy? cantik kaya gitu?🔫🔫"
+  "Ihh itu kamu udah lama dedeyy? cantik kaya gitu?🔫🔫",
+  "Kamu setiap hari mundurr terus ya dedey? cantiknya kelewatan bangeeett...🤗"
 ];
 
 export const openedMessages = new Set();
