@@ -1,6 +1,7 @@
 export const messages = [
-  "Hari ini kamu dapet gacha dan sayang 161116111611 kali dari apit 😻",
-  "dari mata turun ke hati? apit liat dedey mau dari mata, hidung, mulut, pipi semua turun ke hati apitt 💗💗",
+  "Pengen deh... pengen kamu 😖",
+  "Excuse me? Why are you so beautful.🫠",
+  "Ihh itu kamu udah lama dedeyy? cantik kaya gitu?🔫🔫"
 ];
 
 export const openedMessages = new Set();
