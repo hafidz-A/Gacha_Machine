@@ -1,8 +1,8 @@
 export const messages = [
-  "Pengen deh... pengen kamu 😖",
-  "Excuse me? Why are you so beautful.🫠",
-  "Ihh itu kamu udah lama dedeyy? cantik kaya gitu?🔫🔫",
-  "Kamu setiap hari mundurr terus ya dedey? cantiknya kelewatan bangeeett...🤗"
+  "DAR DER DOR! ituu bukan suara tembakan, tapi suara hati apit ketemu dedeyy cantik kyut manis lovlov💘",
+  "lapangan kerja ga nambah saya diam, dolar naik juga saya diam, tapi hari ini saya yang kangen sampaikan: saya akan sayang dedey 😾😽",
+  "ingaat ingaat, apit sayang dedeeyyy😾💘💘💘💘💘💘💘💘💘",
+  "izinkan aku jatuh ya kak, jatuh cinta denganmu🫰"
 ];
 
 export const openedMessages = new Set();
