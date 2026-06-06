@@ -1,8 +1,7 @@
 export const messages = [
-  "DAR DER DOR! ituu bukan suara tembakan, tapi suara hati apit ketemu dedeyy cantik kyut manis lovlov💘",
-  "lapangan kerja ga nambah saya diam, dolar naik juga saya diam, tapi hari ini saya yang kangen sampaikan: saya akan sayang dedey 😾😽",
-  "ingaat ingaat, apit sayang dedeeyyy😾💘💘💘💘💘💘💘💘💘",
-  "izinkan aku jatuh ya kak, jatuh cinta denganmu🫰"
+  "MBG, mas bahlil ganten, buah apa yang paling manis buaHHlil. dedey makin cantik aja deh😏💖",
+  "kalo jadi gunting, batu, dan kertas. aku mau jadi kertasnya dedey batunya. bukan pengen dedey kalah tapi kertas memenangkan batu, dengan cara memeluknya🤏🫠🤗",
+  "ternyata aku selain suka manggil sayang, aku juga suka manggil kamu calon istri apit🥰😝"
 ];
 
 export const openedMessages = new Set();
