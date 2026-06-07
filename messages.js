@@ -1,7 +1,7 @@
 export const messages = [
-  "MBG, mas bahlil ganten, buah apa yang paling manis buaHHlil. dedey makin cantik aja deh😏💖",
-  "kalo jadi gunting, batu, dan kertas. aku mau jadi kertasnya dedey batunya. bukan pengen dedey kalah tapi kertas memenangkan batu, dengan cara memeluknya🤏🫠🤗",
-  "ternyata aku selain suka manggil sayang, aku juga suka manggil kamu calon istri apit🥰😝"
+  "tiap hari aku kaya dapet hadiah, kamu udah jadi surprise aku tiap hari 🎁💐",
+  "kamu masih kalah sama hammilton dan schumander. soalnya kamu menangin hati apit tiap harii🤏🏼🫶🏻🐥",
+  "my 3 most favourites word: apit sayang dedey"
 ];
 
 export const openedMessages = new Set();
