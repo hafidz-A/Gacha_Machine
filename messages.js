@@ -1,7 +1,6 @@
 export const messages = [
-  "tiap hari aku kaya dapet hadiah, kamu udah jadi surprise aku tiap hari 🎁💐",
-  "kamu masih kalah sama hammilton dan schumander. soalnya kamu menangin hati apit tiap harii🤏🏼🫶🏻🐥",
-  "my 3 most favourites word: apit sayang dedey"
+  "tictactoe! omg i love you 🥰",
+  "dedey kayanya cocok kl jadi taylor swift, soalnya aku london boy nya🫰🤓😖😽"
 ];
 
 export const openedMessages = new Set();
