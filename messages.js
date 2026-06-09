@@ -1,6 +1,6 @@
 export const messages = [
-  "tictactoe! omg i love you 🥰",
-  "dedey kayanya cocok kl jadi taylor swift, soalnya aku london boy nya🫰🤓😖😽"
+  "Aku sadar kalo aku udah mulai kebiasa buat tidur ditemenin kamu lewat call, aku seneng dan ga nyangka akan bareng sama dedey🥺",
+  "melow... kalau bisa kata itu diotak atik maka akan begini alurnya (melovv) -> (me lov u)... love you sayang🫶💘"
 ];
 
 export const openedMessages = new Set();
