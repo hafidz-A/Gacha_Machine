@@ -1,6 +1,7 @@
 export const messages = [
-  "Aku sadar kalo aku udah mulai kebiasa buat tidur ditemenin kamu lewat call, aku seneng dan ga nyangka akan bareng sama dedey🥺",
-  "melow... kalau bisa kata itu diotak atik maka akan begini alurnya (melovv) -> (me lov u)... love you sayang🫶💘"
+  "haii duta kesayangan apit... gapapa ga jadi juara 1 atau 2 atau 3 waktu itu, tapi sekarang jadi juara 1 di hati apitt💘💯💯",
+  "maafin apit ya sayang, apit akhir2 ini tidak bisa bangunin dedey jam 6... terlalu nyaman bobo ditemenin dedey 🥺",
+  "aku punya parfum namana ANI dan aku suka. kaya the way ANId you everyday🫶🫶🫶🫶🫶🫶🫶"
 ];
 
 export const openedMessages = new Set();
