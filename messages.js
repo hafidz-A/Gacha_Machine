@@ -1,7 +1,7 @@
 export const messages = [
-  "haii duta kesayangan apit... gapapa ga jadi juara 1 atau 2 atau 3 waktu itu, tapi sekarang jadi juara 1 di hati apitt💘💯💯",
-  "maafin apit ya sayang, apit akhir2 ini tidak bisa bangunin dedey jam 6... terlalu nyaman bobo ditemenin dedey 🥺",
-  "aku punya parfum namana ANI dan aku suka. kaya the way ANId you everyday🫶🫶🫶🫶🫶🫶🫶"
+  "dedeyy makin hari makin disayang apit lhoo🥰💗😖😖😖😖😖",
+  "tidak ada hari tanpa sayang dedeyy💯💯😎😘",
+  "4 kata baru kita -> apit sayang dedey muah😽😽😽😽😽😽😽😽😽😽😽😽😽😽😽😽"
 ];
 
 export const openedMessages = new Set();
