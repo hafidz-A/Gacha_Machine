@@ -11,6 +11,7 @@ import {
 } from "./animations.js";
 import { getRandomMessage } from "./messages.js";
 import { startDomIdleAnimations } from "./particles.js";
+import { initScatteredBalls, addOpenedMessage, closePopup } from "./scattered-balls.js";
 
 const canvas = document.querySelector("#scene-canvas");
 const loader = document.querySelector("[data-loader]");
@@ -52,6 +53,7 @@ function waitForTimeline(timeline) {
 function setState(state) {
   currentState = state;
   document.body.dataset.state = state;
+  if (state !== 'idle') closePopup();
 }
 
 function initLenis() {
@@ -101,6 +103,7 @@ async function boot() {
 
   pageLoadTimeline({ canvas, loader, loaderBar, machineParts: sceneApi.machineParts, ui });
   setupScrollMotion({ sceneApi });
+  initScatteredBalls();
 
   ui.spinButton.addEventListener("click", async () => {
     if (busy || currentState !== "idle") return;
@@ -120,13 +123,15 @@ async function boot() {
   ui.slotBall.addEventListener("click", async () => {
     if (busy || currentState !== "slot") return;
     setBusy(true);
+    const message = getRandomMessage();
+    addOpenedMessage(message);
     const timeline = playCapsuleOpen({
       sceneApi,
       ui,
       panels,
       wipe,
       particlesLayer,
-      message: getRandomMessage(),
+      message,
       onState: setState,
     });
     await waitForTimeline(timeline);

@@ -448,6 +448,110 @@ h1 {
   .f2 { right: 5%; }
 }
 
+/* ── Scattered balls ─────────────────────────────────────────────────────── */
+
+.scattered-ball {
+  position: fixed;
+  border: 3px solid rgba(255, 255, 255, 0.88);
+  border-radius: 50%;
+  cursor: pointer;
+  background:
+    radial-gradient(circle at 30% 26%, #fff 0 9%, transparent 11%),
+    linear-gradient(145deg, #ff6b9d 0 48%, #ffebf2 49% 52%, #ff4757 53% 100%);
+  box-shadow: 0 7px 16px rgba(255, 71, 87, 0.26), inset -4px -5px 11px rgba(155, 32, 65, 0.18);
+  z-index: 4;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.4s ease, transform 0.15s ease;
+  will-change: left, top;
+}
+
+body[data-state="idle"] .scattered-ball {
+  opacity: 1;
+  pointer-events: auto;
+}
+
+.scattered-ball:hover {
+  transform: scale(1.18);
+}
+
+.scattered-ball--past {
+  filter: saturate(0.65) brightness(1.1);
+  border-color: rgba(255, 255, 255, 0.6);
+}
+
+.scattered-ball-shine {
+  position: absolute;
+  top: 5px;
+  left: 7px;
+  width: 9px;
+  height: 5px;
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.7);
+  transform: rotate(-28deg);
+  pointer-events: none;
+}
+
+/* ── Scattered popup ─────────────────────────────────────────────────────── */
+
+.scattered-popup {
+  background: linear-gradient(180deg, #fffaf0, #fff0db);
+  border: 1.5px solid rgba(139, 93, 57, 0.1);
+  border-radius: 16px;
+  padding: 14px 16px 12px;
+  box-shadow: 0 14px 34px rgba(174, 79, 112, 0.2), inset 0 1px 8px rgba(255, 255, 255, 0.6);
+  text-align: center;
+  transform: translateY(-100%);
+  animation: scatterPopIn 0.28s cubic-bezier(0.34, 1.56, 0.64, 1) forwards;
+}
+
+@keyframes scatterPopIn {
+  from { opacity: 0; transform: translateY(-82%) scale(0.84); }
+  to   { opacity: 1; transform: translateY(-100%) scale(1); }
+}
+
+.scattered-popup-knot {
+  display: inline-grid;
+  place-items: center;
+  width: 30px;
+  height: 30px;
+  margin-bottom: 6px;
+  border-radius: 50%;
+  background: #fff;
+  box-shadow: 0 5px 12px rgba(255, 77, 136, 0.13);
+  font-size: 0.85rem;
+}
+
+.scattered-popup-text {
+  margin: 0 0 8px;
+  font-family: "Klee One", "Caveat", cursive;
+  font-size: 0.92rem;
+  font-weight: 600;
+  color: #7d3855;
+  line-height: 1.45;
+}
+
+.scattered-popup-close {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 22px;
+  height: 22px;
+  border: 0;
+  border-radius: 50%;
+  background: rgba(255, 77, 136, 0.1);
+  color: #ff4d88;
+  cursor: pointer;
+  font-size: 0.65rem;
+  font-weight: 800;
+  line-height: 1;
+  transition: background 0.15s;
+}
+
+.scattered-popup-close:hover {
+  background: rgba(255, 77, 136, 0.22);
+}
+
 @media (prefers-reduced-motion: reduce) {
   *,
   *::before,
