@@ -9,6 +9,7 @@ export const pastMessages = [
 ];
 
 export const messages = [
+  "sebelum meeting, ini ada gacha lucu buat dedey yang lucuuu💌💌​",
   "Makasih ya dedey sayang, udah mau ada buat apit🌸",
   "Peluk dari jauh, kerasa nggak maa dedeyy? 🤗",
   "Kamu bukan hanya 'seseorang' — kamu spesial 🌟",
