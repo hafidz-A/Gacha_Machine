@@ -1,5 +1,4 @@
 export const pastMessages = [
-
   "belum genap sehari, tapi aku udah kangen sekali😢💖💖💖😢😢😢",
   "dedeyy makin hari makin disayang apit lhoo🥰💗😖😖😖😖😖",
   "tidak ada hari tanpa sayang dedeyy💯💯😎😘",
@@ -14,7 +13,7 @@ export const pastMessages = [
   "Aku simpan satu doa kecil: semoga kamu selalu merasa dicintai ✨",
   "Kalau dunia ramai, sini dulu, aku tenangin pelan-pelan 🫧",
   "Apit sayang dedey sepuluh juta ribu kali 🌸🤗",
-  "nanti kalau ketemu apit mau peluk lama, jangan kabur ya 🥺💗",
+  "nanti kalau ketemu apit mau peluk lama, jangan kabur ya 🥺💗"
 ];
 
 export const messages = [
