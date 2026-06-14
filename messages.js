@@ -1,10 +1,5 @@
 export const pastMessages = [
-  "kemenkes punya pedoman gizi seimbang, apit punya pedoman sayang dedey: 1. kiss, 2. kiss, 3. kiss, banyak kiss😘😘😘😘",
-  "jatuh paling ga sakit adalah falling in love with you🥰🥰",
-  "hal yang paling apit suka dari dedey adalah, dedey itu sendiri💖💖🥰🥰🥰😘😘😘😘😋😋😃🤩🤗🤗"
-];
 
-export const messages = [
   "belum genap sehari, tapi aku udah kangen sekali😢💖💖💖😢😢😢",
   "dedeyy makin hari makin disayang apit lhoo🥰💗😖😖😖😖😖",
   "tidak ada hari tanpa sayang dedeyy💯💯😎😘",
@@ -20,6 +15,12 @@ export const messages = [
   "Kalau dunia ramai, sini dulu, aku tenangin pelan-pelan 🫧",
   "Apit sayang dedey sepuluh juta ribu kali 🌸🤗",
   "nanti kalau ketemu apit mau peluk lama, jangan kabur ya 🥺💗",
+];
+
+export const messages = [
+  "kemenkes punya pedoman gizi seimbang, apit punya pedoman sayang dedey: 1. kiss, 2. kiss, 3. kiss, banyak kiss😘😘😘😘",
+  "jatuh paling ga sakit adalah falling in love with you🥰🥰",
+  "hal yang paling apit suka dari dedey adalah, dedey itu sendiri💖💖🥰🥰🥰😘😘😘😘😋😋😃🤩🤗🤗"
 ];
 
 export const openedMessages = new Set();
