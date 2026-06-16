@@ -14,14 +14,17 @@ export const pastMessages = [
   "Kalau dunia ramai, sini dulu, aku tenangin pelan-pelan 🫧",
   "Apit sayang dedey sepuluh juta ribu kali 🌸🤗",
   "nanti kalau ketemu apit mau peluk lama, jangan kabur ya 🥺💗",
-    "kemenkes punya pedoman gizi seimbang, apit punya pedoman sayang dedey: 1. kiss, 2. kiss, 3. kiss, banyak kiss😘😘😘😘",
+  "kemenkes punya pedoman gizi seimbang, apit punya pedoman sayang dedey: 1. kiss, 2. kiss, 3. kiss, banyak kiss😘😘😘😘",
   "jatuh paling ga sakit adalah falling in love with you🥰🥰",
-  "hal yang paling apit suka dari dedey adalah, dedey itu sendiri💖💖🥰🥰🥰😘😘😘😘😋😋😃🤩🤗🤗"
+  "hal yang paling apit suka dari dedey adalah, dedey itu sendiri💖💖🥰🥰🥰😘😘😘😘😋😋😃🤩🤗🤗",
+  "akhir2 ini lagi berlangsung piala dunia sepak bola... di saat yang sama juga apit tergocek2 oleh cinta dedey kepada apit😽🥰🥰",
+  "cookies kamu enak banget sayang, tapi cookiss kamuu apit paling sukaa 💘😽💘😽"
 ];
 
 export const messages = [
-  "akhir2 ini lagi berlangsung piala dunia sepak bola... di saat yang sama juga apit tergocek2 oleh cinta dedey kepada apit😽🥰🥰",
-  "cookies kamu enak banget sayang, tapi cookiss kamuu apit paling sukaa 💘😽💘😽"
+  "tiba2 keinget kita sudah kis 10010298374711 kali sampe hari ini😙😽🐥💋",
+  "meng apa yang apit paling sukaa? mengcintai dedey tiap hari😘💕🤗 #ripbahasabaku",
+  "ternyata apit sudah sesayang ini, sampe2 dedey nangis aja apit pengen ikutan nangis😞😟😘"
 ];
 
 export const openedMessages = new Set();
