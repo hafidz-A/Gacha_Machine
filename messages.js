@@ -18,13 +18,16 @@ export const pastMessages = [
   "jatuh paling ga sakit adalah falling in love with you🥰🥰",
   "hal yang paling apit suka dari dedey adalah, dedey itu sendiri💖💖🥰🥰🥰😘😘😘😘😋😋😃🤩🤗🤗",
   "akhir2 ini lagi berlangsung piala dunia sepak bola... di saat yang sama juga apit tergocek2 oleh cinta dedey kepada apit😽🥰🥰",
-  "cookies kamu enak banget sayang, tapi cookiss kamuu apit paling sukaa 💘😽💘😽"
-];
-
-export const messages = [
+  "cookies kamu enak banget sayang, tapi cookiss kamuu apit paling sukaa 💘😽💘😽",
   "tiba2 keinget kita sudah kis 10010298374711 kali sampe hari ini😙😽🐥💋",
   "meng apa yang apit paling sukaa? mengcintai dedey tiap hari😘💕🤗 #ripbahasabaku",
   "ternyata apit sudah sesayang ini, sampe2 dedey nangis aja apit pengen ikutan nangis😞😟😘"
+];
+
+export const messages = [
+  "sejauh ini subscription apit banyaknya cuma yang 1 bulan aja, tapi kalau sama dedey maunya seumur hidup🥺🥺💘💘",
+  "pointing antenna susah2, tetap aja hati apit pointingnya banyak ke dedey🫠😎🥰",
+  "love u baby <3"
 ];
 
 export const openedMessages = new Set();
