@@ -28,7 +28,7 @@ export const pastMessages = [
 ];
 
 export const messages = [
-  "kamu literally my baby, i can kiss u, i kan hug u, i can play with u, i can cry with u, knowing each other, and anything with u baby! i wanna be with u all the time😢💖",
+  "kamu literally my baby, i can kiss u, i can hug u, i can play with u, i can cry with u, knowing each other, and anything with u baby! i wanna be with u all the time😢💖",
   "You are the quiet magic in the middle of the woods—an invisible string of gold that turned my coldest winters into a forever spring.✨💕"
 ];
 
