@@ -21,13 +21,15 @@ export const pastMessages = [
   "cookies kamu enak banget sayang, tapi cookiss kamuu apit paling sukaa 💘😽💘😽",
   "tiba2 keinget kita sudah kis 10010298374711 kali sampe hari ini😙😽🐥💋",
   "meng apa yang apit paling sukaa? mengcintai dedey tiap hari😘💕🤗 #ripbahasabaku",
-  "ternyata apit sudah sesayang ini, sampe2 dedey nangis aja apit pengen ikutan nangis😞😟😘"
-];
-
-export const messages = [
+  "ternyata apit sudah sesayang ini, sampe2 dedey nangis aja apit pengen ikutan nangis😞😟😘",
   "sejauh ini subscription apit banyaknya cuma yang 1 bulan aja, tapi kalau sama dedey maunya seumur hidup🥺🥺💘💘",
   "pointing antenna susah2, tetap aja hati apit pointingnya banyak ke dedey🫠😎🥰",
   "love u baby <3"
+];
+
+export const messages = [
+  "kamu literally my baby, i can kiss u, i kan hug u, i can play with u, i can cry with u, knowing each other, and anything with u baby! i wanna be with u all the time😢💖",
+  "You are the quiet magic in the middle of the woods—an invisible string of gold that turned my coldest winters into a forever spring.✨💕"
 ];
 
 export const openedMessages = new Set();
