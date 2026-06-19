@@ -24,7 +24,7 @@ export const pastMessages = [
   "ternyata apit sudah sesayang ini, sampe2 dedey nangis aja apit pengen ikutan nangis😞😟😘",
   "sejauh ini subscription apit banyaknya cuma yang 1 bulan aja, tapi kalau sama dedey maunya seumur hidup🥺🥺💘💘",
   "pointing antenna susah2, tetap aja hati apit pointingnya banyak ke dedey🫠😎🥰",
-  "love u baby <3"
+  "love u baby <3",
   "kamu literally my baby, i can kiss u, i can hug u, i can play with u, i can cry with u, knowing each other, and anything with u baby! i wanna be with u all the time😢💖",
   "You are the quiet magic in the middle of the woods—an invisible string of gold that turned my coldest winters into a forever spring.✨💕"
 ];
