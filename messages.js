@@ -28,13 +28,15 @@ export const pastMessages = [
   "kamu literally my baby, i can kiss u, i can hug u, i can play with u, i can cry with u, knowing each other, and anything with u baby! i wanna be with u all the time😢💖",
   "You are the quiet magic in the middle of the woods—an invisible string of gold that turned my coldest winters into a forever spring.✨💕",
   "aku mikir kalau apit dan dedey itu kaya 2 hal yang melengkapi, aku sketchnya dan kamu warnanya yang mengisi sketch itu. dedey selalu mewarnai hari2 apit 🥺🫠🥰🎨",
-  "aku masih belum tau sih parfum yang kaya gimana yang kamu suka, tapi aku suka dedey 😆🫶"
-
+  "aku masih belum tau sih parfum yang kaya gimana yang kamu suka, tapi aku suka dedey 😆🫶",
+  "if i lost memory, what would be the first thing you'd tell me about myself? TEAZZI!!!🧋😘❤️",
+  "kok gaada rasa deep in love with u ya di teazzi? kalo ada loyalty card aku sampe level 100++ hari ini🤏🏼🤗💕"
 ];
 
 export const messages = [
-  "if i lost memory, what would be the first thing you'd tell me about myself? TEAZZI!!!🧋😘❤️",
-  "kok gaada rasa deep in love with u ya di teazzi? kalo ada loyalty card aku sampe level 100++ hari ini🤏🏼🤗💕"
+  "kalau dedey nanya kamu sayang aku ga? aku tanpa bosan2nya jawab apit sayang dedey, entah itu pakai muah, pakai banget, atau 27728473kali.😚💋😗🥰",
+  "apit sayang dedey❤️❤️❤️❤️❤️❤️❤️💕💕💙💙💙💙💙💙💙",
+  "cepet sehat yaa cantikku sayaang, banyak2 istirahat, aku temenin kok🤗"
 ];
 
 export const openedMessages = new Set();
