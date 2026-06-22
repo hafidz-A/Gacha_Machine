@@ -30,13 +30,16 @@ export const pastMessages = [
   "aku mikir kalau apit dan dedey itu kaya 2 hal yang melengkapi, aku sketchnya dan kamu warnanya yang mengisi sketch itu. dedey selalu mewarnai hari2 apit 🥺🫠🥰🎨",
   "aku masih belum tau sih parfum yang kaya gimana yang kamu suka, tapi aku suka dedey 😆🫶",
   "if i lost memory, what would be the first thing you'd tell me about myself? TEAZZI!!!🧋😘❤️",
-  "kok gaada rasa deep in love with u ya di teazzi? kalo ada loyalty card aku sampe level 100++ hari ini🤏🏼🤗💕"
+  "kok gaada rasa deep in love with u ya di teazzi? kalo ada loyalty card aku sampe level 100++ hari ini🤏🏼🤗💕",
+  "kalau dedey nanya kamu sayang aku ga? aku tanpa bosan2nya jawab apit sayang dedey, entah itu pakai muah, pakai banget, atau 27728473kali.😚💋😗🥰",
+  "apit sayang dedey❤️❤️❤️❤️❤️❤️❤️💕💕💙💙💙💙💙💙💙",
+  "cepet sehatyaa cantikku sayaang, banyak2 istirahat, aku temenin kok🤗"
 ];
 
 export const messages = [
-  "kalau dedey nanya kamu sayang aku ga? aku tanpa bosan2nya jawab apit sayang dedey, entah itu pakai muah, pakai banget, atau 27728473kali.😚💋😗🥰",
-  "apit sayang dedey❤️❤️❤️❤️❤️❤️❤️💕💕💙💙💙💙💙💙💙",
-  "cepet sehat yaa cantikku sayaang, banyak2 istirahat, aku temenin kok🤗"
+  "babyyy, sapi apa yang romantis??? cow dan akuu🥰🐥🐥🐥🐥",
+  "dedeyy sayaang semangat yaa hari ini dan besokbesokbesokk💕💕",
+  "bangku di kantorku emang nyaman buat semua orang... tapi cuma bangkuan kamu yang bikin aku nyaman🥹🤏🏼❤️"
 ];
 
 export const openedMessages = new Set();
