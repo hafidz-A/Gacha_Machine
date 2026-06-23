@@ -33,13 +33,16 @@ export const pastMessages = [
   "kok gaada rasa deep in love with u ya di teazzi? kalo ada loyalty card aku sampe level 100++ hari ini🤏🏼🤗💕",
   "kalau dedey nanya kamu sayang aku ga? aku tanpa bosan2nya jawab apit sayang dedey, entah itu pakai muah, pakai banget, atau 27728473kali.😚💋😗🥰",
   "apit sayang dedey❤️❤️❤️❤️❤️❤️❤️💕💕💙💙💙💙💙💙💙",
-  "cepet sehatyaa cantikku sayaang, banyak2 istirahat, aku temenin kok🤗"
-];
-
-export const messages = [
+  "cepet sehatyaa cantikku sayaang, banyak2 istirahat, aku temenin kok🤗",
   "babyyy, sapi apa yang romantis??? cow dan akuu🥰🐥🐥🐥🐥",
   "dedeyy sayaang semangat yaa hari ini dan besokbesokbesokk💕💕",
   "bangku di kantorku emang nyaman buat semua orang... tapi cuma bangkuan kamu yang bikin aku nyaman🥹🤏🏼❤️"
+];
+
+export const messages = [
+  "sayangkuu 5 + 5 berapaa? 10ve you bukann?🤗",
+  "kangen bangett woiii, when yahh cium dedey lagi🫨😙",
+  "💐ini bouquet bunga buat dedey, belum ada kan di gacha ini💕"
 ];
 
 export const openedMessages = new Set();
