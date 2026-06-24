@@ -36,13 +36,15 @@ export const pastMessages = [
   "cepet sehatyaa cantikku sayaang, banyak2 istirahat, aku temenin kok🤗",
   "babyyy, sapi apa yang romantis??? cow dan akuu🥰🐥🐥🐥🐥",
   "dedeyy sayaang semangat yaa hari ini dan besokbesokbesokk💕💕",
-  "bangku di kantorku emang nyaman buat semua orang... tapi cuma bangkuan kamu yang bikin aku nyaman🥹🤏🏼❤️"
-];
-
-export const messages = [
+  "bangku di kantorku emang nyaman buat semua orang... tapi cuma bangkuan kamu yang bikin aku nyaman🥹🤏🏼❤️",
   "sayangkuu 5 + 5 berapaa? 10ve you bukann?🤗",
   "kangen bangett woiii, when yahh cium dedey lagi🫨😙",
   "💐ini bouquet bunga buat dedey, belum ada kan di gacha ini💕"
+];
+
+export const messages = [
+  "ada sebuah fakta bahwa, the smallest poetry is a name. dan, nama dedeyy adalah favorit apitt💕",
+  "kalau misal jadi hewan, kayanya merpatii not bad lah. setia. aku mau setia sama kamu😙🤗"
 ];
 
 export const openedMessages = new Set();
