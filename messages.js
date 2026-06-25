@@ -43,8 +43,9 @@ export const pastMessages = [
 ];
 
 export const messages = [
-  "ada sebuah fakta bahwa, the smallest poetry is a name. dan, nama dedeyy adalah favorit apitt💕",
-  "kalau misal jadi hewan, kayanya merpatii not bad lah. setia. aku mau setia sama kamu😙🤗"
+  "lholohlho kapann dedeyy? kapan udah secantik itu???🫨🫨😙",
+  "kayanya kamu ngelewatin sesuatu, secantik princess kamu lewatin deh ituu barusan🥰🐥",
+  "sehat2 yaa pacar apittt yang sangat2 cantik ituuu"
 ];
 
 export const openedMessages = new Set();
