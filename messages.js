@@ -44,13 +44,15 @@ export const pastMessages = [
   "kalau misal jadi hewan, kayanya merpatii not bad lah. setia. aku mau setia sama kamu😙🤗",
   "lholohlho kapann dedeyy? kapan udah secantik itu???🫨🫨😙",
   "kayanya kamu ngelewatin sesuatu, secantik princess kamu lewatin deh ituu barusan🥰🐥",
-  "sehat2 yaa pacar apittt yang sangat2 cantik ituuu"
-];
-
-export const messages = [
+  "sehat2 yaa pacar apittt yang sangat2 cantik ituuu",
   "baby aku kangen bangettt...😔😔😔😔😔😔, aku cuma bisa liat fotofoto kita aja nii dan pap dedey😖😘",
   "apit raccoonnya dedeyy, kuatkuat yaa rawat apit❤️",
   "dedeyy doain kita terus yaa🙏💕"
+];
+
+export const messages = [
+  "hari ini gachanya sedikit tapi aku sayang kamu banyak kok💐🥰",
+  "tau ga bedanya satpam sama aku? kalau satpam itu security kalau aku sukakamu💋❤️"
 ];
 
 export const openedMessages = new Set();
