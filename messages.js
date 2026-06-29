@@ -49,12 +49,14 @@ export const pastMessages = [
   "apit raccoonnya dedeyy, kuatkuat yaa rawat apit❤️",
   "dedeyy doain kita terus yaa🙏💕",
   "hari ini gachanya sedikit tapi aku sayang kamu banyak kok💐🥰",
-  "tau ga bedanya satpam sama aku? kalau satpam itu security kalau aku sukakamu💋❤️"
+  "tau ga bedanya satpam sama aku? kalau satpam itu security kalau aku sukakamu💋❤️",
+  "dedeyy cape yaa? sinii apit kisss dan pelukk banyaak banyaaaakkkkkk😙🤗😙🤗😙🤗😙🤗😙🤗",
+  "kalau aku disuruh milih coklat atau keju, ngapain aku milih ya, udah jelas i will choose u🙏❤️"
 ];
 
 export const messages = [
-  "dedeyy cape yaa? sinii apit kisss dan pelukk banyaak banyaaaakkkkkk😙🤗😙🤗😙🤗😙🤗😙🤗",
-  "kalau aku disuruh milih coklat atau keju, ngapain aku milih ya, udah jelas i will choose u🙏❤️"
+  "tau ga suara kucing yang paling apit suka tuu yang kaya gimana? ginii... miaw sama kamu terus sampe lama lama lamaaaaa banget💐🥰🐥",
+  "kita ini kayak teletabis, suka berpelukaaaaannn🤗🤗🤗🤗🤗🤗🤗🤗🤗🤗🤗🤗🤗🤗🤗🤗🤗🤗🤗🤗"
 ];
 
 export const openedMessages = new Set();
