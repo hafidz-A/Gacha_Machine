@@ -53,10 +53,7 @@ export const pastMessages = [
   "dedeyy cape yaa? sinii apit kisss dan pelukk banyaak banyaaaakkkkkk😙🤗😙🤗😙🤗😙🤗😙🤗",
   "kalau aku disuruh milih coklat atau keju, ngapain aku milih ya, udah jelas i will choose u🙏❤️",
   "tau ga suara kucing yang paling apit suka tuu yang kaya gimana? ginii... miaw sama kamu terus sampe lama lama lamaaaaa banget💐🥰🐥",
-  "kita ini kayak teletabis, suka berpelukaaaaannn🤗🤗🤗🤗🤗🤗🤗🤗🤗🤗🤗🤗🤗🤗🤗🤗🤗🤗🤗🤗"
-];
-
-export const messages = [
+  "kita ini kayak teletabis, suka berpelukaaaaannn🤗🤗🤗🤗🤗🤗🤗🤗🤗🤗🤗🤗🤗🤗🤗🤗🤗🤗🤗🤗",
   "maaf sayang aku suka nempel2, eh tapi kan kita pacaran? izin nempel terus boleh yaa?👉👈",
   "buah manggis buah nanas, apitt lov u so muchh🥰",
   "mangga, buah paling aku suka. selain manis dengan mangga aku bisa mangganggam tangan dedey yang lama lama banget...",
@@ -65,6 +62,11 @@ export const messages = [
   "dubai chewy cookies? aku lebih ke dedey chewy apittt 🥰💗😖",
   "apit aslinya ga jago gombal, tapi kalo sayang dedey aku jagonyaa 😙😙😙😙😙😙😙😙😙😙😙",
   "sebagai orang yang lumayan jago matematika 😎, ada 1 rumus yang kamu tanyain aja deh ke aku by wa yaaa? lov yuuu..."
+];
+
+export const messages = [
+  "sekarang kalau dedey mau peluk apit ada bayarannya... harus peluk apit balikk 😤😤😤😤😤",
+  "tadi dedey bawa2 surat keputusan ke bapa jahat... aku jadi kepikiran kalo dedey juga perlu deh bawa ke apit, keputusan mencitaimu selalu🥰💗"
 ];
 
 export const openedMessages = new Set();
