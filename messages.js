@@ -61,12 +61,15 @@ export const pastMessages = [
   "selama ini kemana aja ya kok baru nemuin kamuu, akukan mau sayang 1029810478123 tahun sama kamu? hehe lovlov🙏❤️",
   "dubai chewy cookies? aku lebih ke dedey chewy apittt 🥰💗😖",
   "apit aslinya ga jago gombal, tapi kalo sayang dedey aku jagonyaa 😙😙😙😙😙😙😙😙😙😙😙",
-  "sebagai orang yang lumayan jago matematika 😎, ada 1 rumus yang kamu tanyain aja deh ke aku by wa yaaa? lov yuuu..."
+  "sebagai orang yang lumayan jago matematika 😎, ada 1 rumus yang kamu tanyain aja deh ke aku by wa yaaa? lov yuuu...",
+  "sekarang kalau dedey mau peluk apit ada bayarannya... harus peluk apit balikk 😤😤😤😤😤",
+  "tadi dedey bawa2 surat keputusan ke bapa jahat... aku jadi kepikiran kalo dedey juga perlu deh bawa ke apit, keputusan mencitaimu selalu🥰💗"
 ];
 
 export const messages = [
-  "sekarang kalau dedey mau peluk apit ada bayarannya... harus peluk apit balikk 😤😤😤😤😤",
-  "tadi dedey bawa2 surat keputusan ke bapa jahat... aku jadi kepikiran kalo dedey juga perlu deh bawa ke apit, keputusan mencitaimu selalu🥰💗"
+  "kalau bayar biasanya aku make qris, tapi kalau ada kamu aku maunya kiss 🥰💗",
+  "i love you baby💕💙",
+  "besok mau kiss rasa apa? straberry? mangga? durian? akusih mau original aja, kiss (dedey)"
 ];
 
 export const openedMessages = new Set();
