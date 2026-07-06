@@ -66,12 +66,14 @@ export const pastMessages = [
   "tadi dedey bawa2 surat keputusan ke bapa jahat... aku jadi kepikiran kalo dedey juga perlu deh bawa ke apit, keputusan mencitaimu selalu🥰💗",
   "kalau bayar biasanya aku make qris, tapi kalau ada kamu aku maunya kiss 🥰💗",
   "i love you baby💕💙",
-  "besok mau kiss rasa apa? straberry? mangga? durian? akusih mau original aja, kiss (dedey)"
+  "besok mau kiss rasa apa? straberry? mangga? durian? akusih mau original aja, kiss (dedey)",
+  "aku izin serius yah sayang, izin serius mencintai dedey sampee lama lama lama lamanyaaa....🥰🥰🥰🥰🥰🥰🥰🥰",
+  "setelah sebulanan pacaran sama kamu, yang aku paling rasain, kamu udah jadi motivasi aku yang gapernah ilang👉👈"
 ];
 
 export const messages = [
-  "aku izin serius yah sayang, izin serius mencintai dedey sampee lama lama lama lamanyaaa....🥰🥰🥰🥰🥰🥰🥰🥰",
-  "setelah sebulanan pacaran sama kamu, yang aku paling rasain, kamu udah jadi motivasi aku yang gapernah ilang👉👈"
+  "apit iri sama caca maw pegang2 dedey😰😍",
+  "dari banyak gacha ini yang paling kamu suka yang manaa? kalo apit sih suka kamu💕💕💕💕💕😘🐥"
 ];
 
 export const openedMessages = new Set();
