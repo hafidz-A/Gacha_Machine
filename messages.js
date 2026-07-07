@@ -68,12 +68,14 @@ export const pastMessages = [
   "i love you baby💕💙",
   "besok mau kiss rasa apa? straberry? mangga? durian? akusih mau original aja, kiss (dedey)",
   "aku izin serius yah sayang, izin serius mencintai dedey sampee lama lama lama lamanyaaa....🥰🥰🥰🥰🥰🥰🥰🥰",
-  "setelah sebulanan pacaran sama kamu, yang aku paling rasain, kamu udah jadi motivasi aku yang gapernah ilang👉👈"
+  "setelah sebulanan pacaran sama kamu, yang aku paling rasain, kamu udah jadi motivasi aku yang gapernah ilang👉👈",
+  "apit iri sama caca maw pegang2 dedey😰😍",
+  "dari banyak gacha ini yang paling kamu suka yang manaa? kalo apit sih suka kamu💕💕💕💕💕😘🐥"
 ];
 
 export const messages = [
-  "apit iri sama caca maw pegang2 dedey😰😍",
-  "dari banyak gacha ini yang paling kamu suka yang manaa? kalo apit sih suka kamu💕💕💕💕💕😘🐥"
+  "makasih yaa sudah mau berjualan bareng apit di roblox, nanti kita jualan bareng buat nikah kita dan kehidupan kita, aamiin ya Allah🤲",
+  "ada sapi ada capi. tapi apit ada terus buat dedeyy dan apit senang 💕💕💕💕💕💕💕💕💕💕💕💕"
 ];
 
 export const openedMessages = new Set();
