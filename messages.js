@@ -78,12 +78,14 @@ export const pastMessages = [
   "apit kangen tangannya dimain2in sama dedeyy, soalnya kemaren tangannya didiemin aja:((((😰",
   "sayang kalo dipikir2, dedey kepikiran terus sama apit...👉👈😖😖",
   "aku tuh suka sapi karena itutuh cow. ya cow apit suka cow💕",
-  "i love you baby and i miss u and i wanna hug you and i wanna be forever with u <3"
+  "i love you baby and i miss u and i wanna hug you and i wanna be forever with u <3",
+  "sayangkuu nanti kita beli nyota sama hirono yaaa. yang sekarang kamu benyek2 dulu juga gapapa❤️🤏🏼",
+  "sayang aku punya pepatah (selain dont worry be happy) -> (dont worry be with me)💋💋💋🐥"
 ];
 
 export const messages = [
-  "sayangkuu nanti kita beli nyota sama hirono yaaa. yang sekarang kamu benyek2 dulu juga gapapa❤️🤏🏼",
-  "sayang aku punya pepatah (selain dont worry be happy) -> (dont worry be with me)💋💋💋🐥"
+  "scroll scroll scroll terus tetep aja fyp yang paling apit suka tuu kamuuuuuu 💕💕👉👈",
+  "saus apa yang enak? saus love you baby🐥 (kalo gangerti tanya ya)"
 ];
 
 export const openedMessages = new Set();
