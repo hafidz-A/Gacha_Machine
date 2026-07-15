@@ -82,12 +82,15 @@ export const pastMessages = [
   "sayangkuu nanti kita beli nyota sama hirono yaaa. yang sekarang kamu benyek2 dulu juga gapapa❤️🤏🏼",
   "sayang aku punya pepatah (selain dont worry be happy) -> (dont worry be with me)💋💋💋🐥",
   "scroll scroll scroll terus tetep aja fyp yang paling apit suka tuu kamuuuuuu 💕💕👉👈",
-  "saus apa yang enak? saus love you baby🐥 (kalo gangerti tanya ya)"
+  "saus apa yang enak? saus love you baby🐥 (kalo gangerti tanya ya)",
+  "minum jamu sambil makan kentang. lihat senyummu, apit langsung tenang💕❤️🥰💋🤗🫨🤗😘🤏🏼",
+  "beres2 yang paling aku suka tuh, beresin semua hal yang bisa bikin kita menua bersama🤏🏼❤️😘"
+
 ];
 
 export const messages = [
-  "minum jamu sambil makan kentang. lihat senyummu, apit langsung tenang💕❤️🥰💋🤗🫨🤗😘🤏🏼",
-  "beres2 yang paling aku suka tuh, beresin semua hal yang bisa bikin kita menua bersama🤏🏼❤️😘"
+  "aku suka deh konsep kita vidcall, kaya bangun2 tuh, siapa inii?? OH YAA PACARKUUU😍😍",
+  "selain suka mepet2 truk, aku juga suka mepet2 kamuuu🐥🐥🥰🥰🥰"
 ];
 
 export const openedMessages = new Set();
