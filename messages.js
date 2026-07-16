@@ -84,13 +84,14 @@ export const pastMessages = [
   "scroll scroll scroll terus tetep aja fyp yang paling apit suka tuu kamuuuuuu 💕💕👉👈",
   "saus apa yang enak? saus love you baby🐥 (kalo gangerti tanya ya)",
   "minum jamu sambil makan kentang. lihat senyummu, apit langsung tenang💕❤️🥰💋🤗🫨🤗😘🤏🏼",
-  "beres2 yang paling aku suka tuh, beresin semua hal yang bisa bikin kita menua bersama🤏🏼❤️😘"
-
+  "beres2 yang paling aku suka tuh, beresin semua hal yang bisa bikin kita menua bersama🤏🏼❤️😘",
+  "aku suka deh konsep kita vidcall, kaya bangun2 tuh, siapa inii?? OH YAA PACARKUUU😍😍",
+  "selain suka mepet2 truk, aku juga suka mepet2 kamuuu🐥🐥🥰🥰🥰"
 ];
 
 export const messages = [
-  "aku suka deh konsep kita vidcall, kaya bangun2 tuh, siapa inii?? OH YAA PACARKUUU😍😍",
-  "selain suka mepet2 truk, aku juga suka mepet2 kamuuu🐥🐥🥰🥰🥰"
+  "kalau dedeyy sama apit belanja di supermarket, kira2 aku sama kamu beli apa aja? kalau aku maunya gabeli karna mau dedey aja yg masakin buat acuu kalau dah nikah😘😘",
+  "aku kangen sama dedeyy:(((😔😔😔"
 ];
 
 export const openedMessages = new Set();
