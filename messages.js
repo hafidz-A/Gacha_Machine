@@ -86,12 +86,16 @@ export const pastMessages = [
   "minum jamu sambil makan kentang. lihat senyummu, apit langsung tenang💕❤️🥰💋🤗🫨🤗😘🤏🏼",
   "beres2 yang paling aku suka tuh, beresin semua hal yang bisa bikin kita menua bersama🤏🏼❤️😘",
   "aku suka deh konsep kita vidcall, kaya bangun2 tuh, siapa inii?? OH YAA PACARKUUU😍😍",
-  "selain suka mepet2 truk, aku juga suka mepet2 kamuuu🐥🐥🥰🥰🥰"
+  "selain suka mepet2 truk, aku juga suka mepet2 kamuuu🐥🐥🥰🥰🥰",
+  "kalau dedeyy sama apit belanja di supermarket, kira2 aku sama kamu beli apa aja? kalau aku maunya gabeli karna mau dedey aja yg masakin buat acuu kalau dah nikah😘😘",
+  "aku kangen sama dedeyy:(((😔😔😔"
 ];
 
 export const messages = [
-  "kalau dedeyy sama apit belanja di supermarket, kira2 aku sama kamu beli apa aja? kalau aku maunya gabeli karna mau dedey aja yg masakin buat acuu kalau dah nikah😘😘",
-  "aku kangen sama dedeyy:(((😔😔😔"
+  "was that hurt sayang? when you fell from heaven?🤔🤔😘",
+  "dulu aku liat kamu kaya cantik bgtt, ehh sekarang yang cantik ituu punya apitt dan jadi makin cantik😖😖😻😻😻😻",
+  "inggris, argentina, pranciss? menurutku dedeyy sih juaranyaa di hati apit💕💕💕💕💕",
+  "kalo ditanya hari ini cape gaa? ya kangenn banget 103947749291kali laah🤗😼😼🥰😽"
 ];
 
 export const openedMessages = new Set();
