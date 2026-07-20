@@ -94,13 +94,16 @@ export const pastMessages = [
   "inggris, argentina, pranciss? menurutku dedeyy sih juaranyaa di hati apit💕💕💕💕💕",
   "kalo ditanya hari ini cape gaa? ya kangenn banget 103947749291kali laah🤗😼😼🥰😽",
   "dedey sayang mau make baju pink, coklat, item atau make baju ijo, abu. bebas ajaa apit suka semua asal sama apit😘😘😘",
-  "dedey kalau disuruh pilih kucing mau kucing apaa? kalo apit kucingtaa padamuu😖❤️"
+  "dedey kalau disuruh pilih kucing mau kucing apaa? kalo apit kucingtaa padamuu😖❤️",
+  "bb maafin aku ya sering bikin kamu sebel, maaf hari ini kamu ngerasa aku ga excited sama dedey. aku salah maafin aku banyak2 yaa😖💕",
+  "tadi aku habis baca buku isinya ttg mindfulness. intinya tuh apapun yang dilakukan harus disadari dan dirasakan bahwa lg ngelakuin itu. so dari salah ini apit belajar buat mindful kalau apit punya pacar, namanya dedey yang perlu disayang, diperhatikan, dibuat senang, dan yang paling penting dihargai💕❤️💋"
 ];
 
 export const messages = [
-  "bb maafin aku ya sering bikin kamu sebel, maaf hari ini kamu ngerasa aku ga excited sama dedey. aku salah maafin aku banyak2 yaa😖💕",
-  "tadi aku habis baca buku isinya ttg mindfulness. intinya tuh apapun yang dilakukan harus disadari dan dirasakan bahwa lg ngelakuin itu. so dari salah ini apit belajar buat mindful kalau apit punya pacar, namanya dedey yang perlu disayang, diperhatikan, dibuat senang, dan yang paling penting dihargai💕❤️💋",
-  "(aku gatau gacha ini dapet di keberapa) tapi apit mau jujur aku agak sebel ketika kamu sebel sama aku grgr ga liat post dedey, sejujurnya apit itu udah lama banget ga buka tiktok lebih aktif di ig. jadi ga semua fitur aku buka, bahkan tab (friend) yang ada kamunya aku gabuka jadi gatau ada postan kamu... maaf ya aku sering2 buka sosmed kamu deh aku bener2 gatau yang tiktok ini jadi dari awal aku agak sedikit sebel dedey ngomong seakan2 sebel sama aku🙏😔😘"
+  "100+55 = M 155 U🥰",
+  "maaf ya lagi gabisa ngitung, tapi seinget apit, apit sayang dedey 102838282919x 😘",
+  "aku pengen deh aquarium date kapan2. mau liat kamu kamu kamu kamuu yang banyaak nanti💕🤏🏼",
+  "apit harap apit masih bisa dapet kiss dan hughug dedey yang banyak2😖🥹"
 ];
 
 export const openedMessages = new Set();
