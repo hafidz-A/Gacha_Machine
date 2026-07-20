@@ -99,7 +99,7 @@ export const pastMessages = [
 
 export const messages = [
   "bb maafin aku ya sering bikin kamu sebel, maaf hari ini kamu ngerasa aku ga excited sama dedey. aku salah maafin aku banyak2 yaa😖💕",
-  "tadi aku habis baca buku isinya ttg mindfulness. intinya tuh apapun yang dilakukan harus disadari dan dirasakan bahwa lg ngelakuin itu. so dari salah ini apit belajar buat mindful kalau apit punya pacar, namanya dedey yang perlu disayang, diperhatikan, dan dibuat senang💕❤️💋",
+  "tadi aku habis baca buku isinya ttg mindfulness. intinya tuh apapun yang dilakukan harus disadari dan dirasakan bahwa lg ngelakuin itu. so dari salah ini apit belajar buat mindful kalau apit punya pacar, namanya dedey yang perlu disayang, diperhatikan, dibuat senang, dan yang paling penting dihargai💕❤️💋",
   "(aku gatau gacha ini dapet di keberapa) tapi apit mau jujur aku agak sebel ketika kamu sebel sama aku grgr ga liat post dedey, sejujurnya apit itu udah lama banget ga buka tiktok lebih aktif di ig. jadi ga semua fitur aku buka, bahkan tab (friend) yang ada kamunya aku gabuka jadi gatau ada postan kamu... maaf ya aku sering2 buka sosmed kamu deh aku bener2 gatau yang tiktok ini jadi dari awal aku agak sedikit sebel dedey ngomong seakan2 sebel sama aku🙏😔😘"
 ];
 
