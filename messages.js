@@ -103,7 +103,8 @@ export const messages = [
   "100+55 = M 155 U🥰",
   "maaf ya lagi gabisa ngitung, tapi seinget apit, apit sayang dedey 102838282919x 😘",
   "aku pengen deh aquarium date kapan2. mau liat kamu kamu kamu kamuu yang banyaak nanti💕🤏🏼",
-  "apit harap apit masih bisa dapet kiss dan hughug dedey yang banyak2😖🥹"
+  "apit harap apit masih bisa dapet kiss dan hughug dedey yang banyak2😖🥹",
+  "selain butuh deeptalk, kita juga butuh deepeluk😔"
 ];
 
 export const openedMessages = new Set();
