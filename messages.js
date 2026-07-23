@@ -97,14 +97,18 @@ export const pastMessages = [
   "dedey kalau disuruh pilih kucing mau kucing apaa? kalo apit kucingtaa padamuu😖❤️",
   "bb maafin aku ya sering bikin kamu sebel, maaf hari ini kamu ngerasa aku ga excited sama dedey. aku salah maafin aku banyak2 yaa😖💕",
   "tadi aku habis baca buku isinya ttg mindfulness. intinya tuh apapun yang dilakukan harus disadari dan dirasakan bahwa lg ngelakuin itu. so dari salah ini apit belajar buat mindful kalau apit punya pacar, namanya dedey yang perlu disayang, diperhatikan, dibuat senang, dan yang paling penting dihargai💕❤️💋"
-];
-
-export const messages = [
   "100+55 = M 155 U🥰",
   "maaf ya lagi gabisa ngitung, tapi seinget apit, apit sayang dedey 102838282919x 😘",
   "aku pengen deh aquarium date kapan2. mau liat kamu kamu kamu kamuu yang banyaak nanti💕🤏🏼",
   "apit harap apit masih bisa dapet kiss dan hughug dedey yang banyak2😖🥹",
   "selain butuh deeptalk, kita juga butuh deepeluk😔"
+];
+
+export const messages = [
+  "aku seneng banget bisa dengerin semua cerita kamu, celotehan kamu, sebel2nya kamu... iesugbnewiuf lov😘😘😘",
+  "jadi kapan? kapan ketemu lagiiii?:(((((((",
+  "harinii seharian denger taylor swift terus... jadi keinget dedey seharian🥰",
+  "muah banyak2 dari apit😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘"
 ];
 
 export const openedMessages = new Set();
