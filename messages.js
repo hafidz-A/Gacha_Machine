@@ -108,7 +108,7 @@ export const messages = [
   "aku seneng banget bisa dengerin semua cerita kamu, celotehan kamu, sebel2nya kamu... iesugbnewiuf lov😘😘😘",
   "jadi kapan? kapan ketemu lagiiii?:(((((((",
   "harinii seharian denger taylor swift terus... jadi keinget dedey seharian🥰",
-  "muah banyak2 dari apit😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘"
+  "muah banyak2 dari apit😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘"
 ];
 
 export const openedMessages = new Set();
