@@ -105,13 +105,15 @@ export const pastMessages = [
     "aku seneng banget bisa dengerin semua cerita kamu, celotehan kamu, sebel2nya kamu... iesugbnewiuf lov😘😘😘",
   "jadi kapan? kapan ketemu lagiiii?:(((((((",
   "harinii seharian denger taylor swift terus... jadi keinget dedey seharian🥰",
-  "muah banyak2 dari apit😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘"
-];
-
-export const messages = [
+  "muah banyak2 dari apit😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘",
   "padahal kita 2 hari ketemuan, tapi aku rasanya masih pengen bareng kamu terus, sesayang itu yaa apit inii... smoga dedey sesayang ini juga ma apit🥹😘",
   "semoga yang kita semoga2in yang baik2 dikabulin sama Allah... aamiin🤲🏻",
   "tidak bosan2nya apit bilang ke dedey. I LOVE YOU❤️"
+];
+
+export const messages = [
+  "haii im still waiting for our 'SAH' day...🥹🥹",
+  "kamu suka pentol ga sih? kalo apitt lebih suka kecantool dedeyy😝😝"
 ];
 
 export const openedMessages = new Set();
