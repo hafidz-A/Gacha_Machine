@@ -108,12 +108,14 @@ export const pastMessages = [
   "muah banyak2 dari apit😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘",
   "padahal kita 2 hari ketemuan, tapi aku rasanya masih pengen bareng kamu terus, sesayang itu yaa apit inii... smoga dedey sesayang ini juga ma apit🥹😘",
   "semoga yang kita semoga2in yang baik2 dikabulin sama Allah... aamiin🤲🏻",
-  "tidak bosan2nya apit bilang ke dedey. I LOVE YOU❤️"
+  "tidak bosan2nya apit bilang ke dedey. I LOVE YOU❤️",
+  "haii im still waiting for our 'SAH' day...🥹🥹",
+  "kamu suka pentol ga sih? kalo apitt lebih suka kecantool dedeyy😝😝"
 ];
 
 export const messages = [
-  "haii im still waiting for our 'SAH' day...🥹🥹",
-  "kamu suka pentol ga sih? kalo apitt lebih suka kecantool dedeyy😝😝"
+  "besok hari apaa? besok hari ketemu dedey lagi ke 108247019280519284 kalinya yey, izin kiss 1kalisatujuta 😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘",
+  "aku make kacamata mau gamake, liat dedey tetep sayang banget gaketolong🥹🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰"
 ];
 
 export const openedMessages = new Set();
