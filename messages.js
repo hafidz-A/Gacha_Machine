@@ -110,12 +110,14 @@ export const pastMessages = [
   "semoga yang kita semoga2in yang baik2 dikabulin sama Allah... aamiin🤲🏻",
   "tidak bosan2nya apit bilang ke dedey. I LOVE YOU❤️",
   "haii im still waiting for our 'SAH' day...🥹🥹",
-  "kamu suka pentol ga sih? kalo apitt lebih suka kecantool dedeyy😝😝"
+  "kamu suka pentol ga sih? kalo apitt lebih suka kecantool dedeyy😝😝",
+  "besok hari apaa? besok hari ketemu dedey lagi ke 108247019280519284 kalinya yey, izin kiss 1kalisatujuta 😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘",
+  "aku make kacamata mau gamake, liat dedey tetep sayang banget gaketolong🥹🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰"
 ];
 
 export const messages = [
-  "besok hari apaa? besok hari ketemu dedey lagi ke 108247019280519284 kalinya yey, izin kiss 1kalisatujuta 😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘",
-  "aku make kacamata mau gamake, liat dedey tetep sayang banget gaketolong🥹🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰"
+  "how lucky i am to have something that makes saying goodbye so hard, like goodbye dedey🥺🥺🥺🥺🥺🥺🥺❤️",
+  "dedeyku sayaang, hari ini aku tau dedey cape banget, sedih jugaa, tapi apit yakin dedeyy kuattt💪. Semoga Allah kasih gantinya buat besok2 dedey biar lebih baik drpd hari ini"
 ];
 
 export const openedMessages = new Set();
