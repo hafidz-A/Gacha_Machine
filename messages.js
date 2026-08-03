@@ -102,7 +102,7 @@ export const pastMessages = [
   "aku pengen deh aquarium date kapan2. mau liat kamu kamu kamu kamuu yang banyaak nanti💕🤏🏼",
   "apit harap apit masih bisa dapet kiss dan hughug dedey yang banyak2😖🥹",
   "selain butuh deeptalk, kita juga butuh deepeluk😔",
-    "aku seneng banget bisa dengerin semua cerita kamu, celotehan kamu, sebel2nya kamu... iesugbnewiuf lov😘😘😘",
+  "aku seneng banget bisa dengerin semua cerita kamu, celotehan kamu, sebel2nya kamu... iesugbnewiuf lov😘😘😘",
   "jadi kapan? kapan ketemu lagiiii?:(((((((",
   "harinii seharian denger taylor swift terus... jadi keinget dedey seharian🥰",
   "muah banyak2 dari apit😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘",
@@ -114,14 +114,15 @@ export const pastMessages = [
   "besok hari apaa? besok hari ketemu dedey lagi ke 108247019280519284 kalinya yey, izin kiss 1kalisatujuta 😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘",
   "aku make kacamata mau gamake, liat dedey tetep sayang banget gaketolong🥹🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰",
   "how lucky i am to have something that makes saying goodbye so hard, like goodbye dedey🥺🥺🥺🥺🥺🥺🥺❤️",
-  "dedeyku sayaang, hari ini aku tau dedey cape banget, sedih jugaa, tapi apit yakin dedeyy kuattt💪. Semoga Allah kasih gantinya buat besok2 dedey biar lebih baik drpd hari ini"
-
+  "dedeyku sayaang, hari ini aku tau dedey cape banget, sedih jugaa, tapi apit yakin dedeyy kuattt💪. Semoga Allah kasih gantinya buat besok2 dedey biar lebih baik drpd hari ini",
+   "dedeyy sayaang, pelatihan minggu ini yang semangaat yaaa💕💕 apitt tunggu jadi advokat kesayangan apiitt😘",
+  "sayangkuu semoga tempat tinggal barunya nyaman, bikin dedey betah dan gabanyak ngeluh, jadi lebih deket lagi sama tan... love youu babyyy💕🥰",
+  "apittt seneng bisa nemenin dedeyy teruss sampe sekarang❤️"
 ];
 
 export const messages = [
-  "dedeyy sayaang, pelatihan minggu ini yang semangaat yaaa💕💕 apitt tunggu jadi advokat kesayangan apiitt😘",
-  "sayangkuu semoga tempat tinggal barunya nyaman, bikin dedey betah dan gabanyak ngeluh, jadi lebih deket lagi sama tan... love youu babyyy💕🥰",
-  "apittt seneng bisa nemenin dedeyy teruss sampe sekarang❤️"
+  "dedey sayaang, gimana kelas pertamanya hari ini? kalau hari ini belum bisa cerita... bisa besok lagi ajaaa... yang penting dedey jangan lupa istirahaatt🥺💕 semangaaaattt🤏🏼🤏🏼💪",
+  "ihh kalo dipikir2 aku inii ngikutin cara ngomong kamu tau sayangg😛🫨🫨😙😙😙😙"
 ];
 
 export const openedMessages = new Set();
