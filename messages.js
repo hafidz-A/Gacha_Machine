@@ -117,12 +117,15 @@ export const pastMessages = [
   "dedeyku sayaang, hari ini aku tau dedey cape banget, sedih jugaa, tapi apit yakin dedeyy kuattt💪. Semoga Allah kasih gantinya buat besok2 dedey biar lebih baik drpd hari ini",
    "dedeyy sayaang, pelatihan minggu ini yang semangaat yaaa💕💕 apitt tunggu jadi advokat kesayangan apiitt😘",
   "sayangkuu semoga tempat tinggal barunya nyaman, bikin dedey betah dan gabanyak ngeluh, jadi lebih deket lagi sama tan... love youu babyyy💕🥰",
-  "apittt seneng bisa nemenin dedeyy teruss sampe sekarang❤️"
+  "apittt seneng bisa nemenin dedeyy teruss sampe sekarang❤️",
+    "dedey sayaang, gimana kelas pertamanya hari ini? kalau hari ini belum bisa cerita... bisa besok lagi ajaaa... yang penting dedey jangan lupa istirahaatt🥺💕 semangaaaattt🤏🏼🤏🏼💪",
+  "ihh kalo dipikir2 aku inii ngikutin cara ngomong kamu tau sayangg😛🫨🫨😙😙😙😙"
+
 ];
 
 export const messages = [
-  "dedey sayaang, gimana kelas pertamanya hari ini? kalau hari ini belum bisa cerita... bisa besok lagi ajaaa... yang penting dedey jangan lupa istirahaatt🥺💕 semangaaaattt🤏🏼🤏🏼💪",
-  "ihh kalo dipikir2 aku inii ngikutin cara ngomong kamu tau sayangg😛🫨🫨😙😙😙😙"
+  "kira2 dibandingkan selimut sama aku, kamu pilih mana buat ngangetin? kalo apiit milih dedey+diselimutin biar makin nyaman💕",
+  "kamu kalo ketemu mau aku, apa yang dedey pikirin? kalo aku jelas mules dulu... tapi semuanya jadi tenang habis list kamu, real aku tenang sama kamu my lovvv❤️❤️🥰🥰"
 ];
 
 export const openedMessages = new Set();
