@@ -118,18 +118,19 @@ export const pastMessages = [
    "dedeyy sayaang, pelatihan minggu ini yang semangaat yaaa💕💕 apitt tunggu jadi advokat kesayangan apiitt😘",
   "sayangkuu semoga tempat tinggal barunya nyaman, bikin dedey betah dan gabanyak ngeluh, jadi lebih deket lagi sama tan... love youu babyyy💕🥰",
   "apittt seneng bisa nemenin dedeyy teruss sampe sekarang❤️",
-    "dedey sayaang, gimana kelas pertamanya hari ini? kalau hari ini belum bisa cerita... bisa besok lagi ajaaa... yang penting dedey jangan lupa istirahaatt🥺💕 semangaaaattt🤏🏼🤏🏼💪",
+  "dedey sayaang, gimana kelas pertamanya hari ini? kalau hari ini belum bisa cerita... bisa besok lagi ajaaa... yang penting dedey jangan lupa istirahaatt🥺💕 semangaaaattt🤏🏼🤏🏼💪",
   "ihh kalo dipikir2 aku inii ngikutin cara ngomong kamu tau sayangg😛🫨🫨😙😙😙😙",
-    "kira2 dibandingkan selimut sama aku, kamu pilih mana buat ngangetin? kalo apiit milih dedey+diselimutin biar makin nyaman💕",
+  "kira2 dibandingkan selimut sama aku, kamu pilih mana buat ngangetin? kalo apiit milih dedey+diselimutin biar makin nyaman💕",
   "kamu kalo ketemu mau aku, apa yang dedey pikirin? kalo aku jelas mules dulu... tapi semuanya jadi tenang habis list kamu, real aku tenang sama kamu my lovvv❤️❤️🥰🥰"
-
+  "sayaang aku suka kucing, kamu juga kan? aku suka karna suka banget decat decat sama kamu💕💕",
+  "aku harap ketemu nanti kita banyakk nambah suka dan cintanya yaaa😙😙",
+  "dedey lagi kelas jangan lupa banyak mam, jangan lupa banyak mencatat, jangan lupa banyak minum, dan jangan lupa banyak2 suka apiiiit🤗😼😼🥰"
 
 ];
 
 export const messages = [
-  "sayaang aku suka kucing, kamu juga kan? aku suka karna suka banget decat decat sama kamu💕💕",
-  "aku harap ketemu nanti kita banyakk nambah suka dan cintanya yaaa😙😙",
-  "dedey lagi kelas jangan lupa banyak mam, jangan lupa banyak mencatat, jangan lupa banyak minum, dan jangan lupa banyak2 suka apiiiit🤗😼😼🥰"
+  "yang paling apit seneng ketika sama dedey adalah, ketika nyobain apapun buat yang pertama kalinya trus gagal aku gaakan terlalu sedih karena semua kegiatan itu sama dedey yang apit sayaaang banget  🥺❤️",
+  "tau ga ketika aku bilang aku bau, aku takut deket sama dedey... karna aku selalu usahain yang terbaik kl sama dedey, termasuk tampilan dan wangi2an😼😼 kalau gasengaja tbtb bau aku bakal mandi sih biar dedey tetep nyaman jalan sama akuu..."
 ];
 
 export const openedMessages = new Set();
