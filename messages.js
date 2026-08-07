@@ -121,7 +121,7 @@ export const pastMessages = [
   "dedey sayaang, gimana kelas pertamanya hari ini? kalau hari ini belum bisa cerita... bisa besok lagi ajaaa... yang penting dedey jangan lupa istirahaatt🥺💕 semangaaaattt🤏🏼🤏🏼💪",
   "ihh kalo dipikir2 aku inii ngikutin cara ngomong kamu tau sayangg😛🫨🫨😙😙😙😙",
   "kira2 dibandingkan selimut sama aku, kamu pilih mana buat ngangetin? kalo apiit milih dedey+diselimutin biar makin nyaman💕",
-  "kamu kalo ketemu mau aku, apa yang dedey pikirin? kalo aku jelas mules dulu... tapi semuanya jadi tenang habis list kamu, real aku tenang sama kamu my lovvv❤️❤️🥰🥰"
+  "kamu kalo ketemu mau aku, apa yang dedey pikirin? kalo aku jelas mules dulu... tapi semuanya jadi tenang habis list kamu, real aku tenang sama kamu my lovvv❤️❤️🥰🥰",
   "sayaang aku suka kucing, kamu juga kan? aku suka karna suka banget decat decat sama kamu💕💕",
   "aku harap ketemu nanti kita banyakk nambah suka dan cintanya yaaa😙😙",
   "dedey lagi kelas jangan lupa banyak mam, jangan lupa banyak mencatat, jangan lupa banyak minum, dan jangan lupa banyak2 suka apiiiit🤗😼😼🥰"
