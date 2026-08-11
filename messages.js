@@ -126,13 +126,16 @@ export const pastMessages = [
   "aku harap ketemu nanti kita banyakk nambah suka dan cintanya yaaa😙😙",
   "dedey lagi kelas jangan lupa banyak mam, jangan lupa banyak mencatat, jangan lupa banyak minum, dan jangan lupa banyak2 suka apiiiit🤗😼😼🥰",
   "yang paling apit seneng ketika sama dedey adalah, ketika nyobain apapun buat yang pertama kalinya trus gagal aku gaakan terlalu sedih karena semua kegiatan itu sama dedey yang apit sayaaang banget  🥺❤️",
-  "tau ga ketika aku bilang aku bau, aku takut deket sama dedey... karna aku selalu usahain yang terbaik kl sama dedey, termasuk tampilan dan wangi2an😼😼 kalau gasengaja tbtb bau aku bakal mandi sih biar dedey tetep nyaman jalan sama akuu..."
+  "tau ga ketika aku bilang aku bau, aku takut deket sama dedey... karna aku selalu usahain yang terbaik kl sama dedey, termasuk tampilan dan wangi2an😼😼 kalau gasengaja tbtb bau aku bakal mandi sih biar dedey tetep nyaman jalan sama akuu...",
+  "sayangg kasian kalah badminton, apit ikutan sedih😔😔. tapi gapapa kok sayang kamu tetep pemenang di hati apiiit💕💕💕💕",
+  "kayanya kalo apit main badminton, apit gamau mukul2 ah maunya kiss2 dedey ajaa yg banyaak😘😘"
+
 
 ];
 
 export const messages = [
-  "sayangg kasian kalah badminton, apit ikutan sedih😔😔. tapi gapapa kok sayang kamu tetep pemenang di hati apiiit💕💕💕💕",
-  "kayanya kalo apit main badminton, apit gamau mukul2 ah maunya kiss2 dedey ajaa yg banyaak😘😘"
+  "1 hal yang apit selalu kaget adalah dedey yang selalu nempel senempel2nya sama apit... apit gapernah ekspek itu tapi apit suka bangett🥺💕",
+  "how amazing and precious you are for me, dedey sayang, bahkan sendal yang dedey kasih ke apit bikin apit lupa kalo apit punya banyak sendal❤️"
 ];
 
 export const openedMessages = new Set();
