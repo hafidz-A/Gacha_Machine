@@ -132,15 +132,17 @@ export const pastMessages = [
   "1 hal yang apit selalu kaget adalah dedey yang selalu nempel senempel2nya sama apit... apit gapernah ekspek itu tapi apit suka bangett🥺💕",
   "how amazing and precious you are for me, dedey sayang, bahkan sendal yang dedey kasih ke apit bikin apit lupa kalo apit punya banyak sendal❤️",
   "1+1 = 2, kamu sama aku emang cocok berduaa😘😘😘😘😘😘😘",
-  "sayang kamu sejak kapan sih selucu iniii? kalo aku ketemu dari dulu aku senyum2nya udah dari dulu🫠🫠💕"
-
-];
-
-export const messages = [
+  "sayang kamu sejak kapan sih selucu iniii? kalo aku ketemu dari dulu aku senyum2nya udah dari dulu🫠🫠💕",
   "satu hal lain yang aku suka dari dedey adalah, dedey bukan tipe yang silent treatment, jadi aku bisa cepet tau apa salahku dan bisa benerin sifatku buat dedey❤️❤️",
   "mau pake terios atau panther, aku siap buat menerjang jalanan buat dedey kesayangan apiit💕💕",
   "sayang sabaar2 ya sama akuu, aku juga bakal sabaar2 sama kamuu yang banyaaakk😘🥰",
   "kok aku makin sukaa yaa samaa dedey🥺🥺💍"
+
+];
+
+export const messages = [
+  "emang bener deh sayang, setiap kali kamu jauh sama aku langsung sariawan, bener2 butuh vitamin K🥺🥺🥺😘😘",
+  "ketika alayku bertemu dengan alaymu, maka terbitlah aylafyuu sayaangg mweheheheh💕💕💕💕"
 ];
 
 export const openedMessages = new Set();
