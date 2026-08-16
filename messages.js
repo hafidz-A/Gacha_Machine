@@ -138,13 +138,15 @@ export const pastMessages = [
   "sayang sabaar2 ya sama akuu, aku juga bakal sabaar2 sama kamuu yang banyaaakk😘🥰",
   "kok aku makin sukaa yaa samaa dedey🥺🥺💍",
   "emang bener deh sayang, setiap kali kamu jauh sama aku langsung sariawan, bener2 butuh vitamin K🥺🥺🥺😘😘",
-  "ketika alayku bertemu dengan alaymu, maka terbitlah aylafyuu sayaangg mweheheheh💕💕💕💕"
+  "ketika alayku bertemu dengan alaymu, maka terbitlah aylafyuu sayaangg mweheheheh💕💕💕💕",
+    "sayang, aku minta maaf hari ini buat kamu gaenak malem2nya. gimanapun yang terjadi apit tetep sayang sama dedey🥺💕",
+  "bakal apit usahain dedey yang jadi istri impian apit inii❤️❤️❤️❤️❤️"
 
 ];
 
 export const messages = [
-  "sayang, aku minta maaf hari ini buat kamu gaenak malem2nya. gimanapun yang terjadi apit tetep sayang sama dedey🥺💕",
-  "bakal apit usahain dedey yang jadi istri impian apit inii❤️❤️❤️❤️❤️"
+  "hari inii pada upacaraaa, kalo apit mah pacaran ma dedeeyy💕💕",
+  "dedey kalau di kiss apit mau berapa kaliiii? 😘😘😘😘😘😘😘😘😘😘😘😘😘😘"
 ];
 
 export const openedMessages = new Set();
