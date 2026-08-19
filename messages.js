@@ -140,13 +140,16 @@ export const pastMessages = [
   "emang bener deh sayang, setiap kali kamu jauh sama aku langsung sariawan, bener2 butuh vitamin K🥺🥺🥺😘😘",
   "ketika alayku bertemu dengan alaymu, maka terbitlah aylafyuu sayaangg mweheheheh💕💕💕💕",
     "sayang, aku minta maaf hari ini buat kamu gaenak malem2nya. gimanapun yang terjadi apit tetep sayang sama dedey🥺💕",
-  "bakal apit usahain dedey yang jadi istri impian apit inii❤️❤️❤️❤️❤️"
-
+  "bakal apit usahain dedey yang jadi istri impian apit inii❤️❤️❤️❤️❤️",
+  "hari inii pada upacaraaa, kalo apit mah pacaran ma dedeeyy💕💕",
+  "dedey kalau di kiss apit mau berapa kaliiii? 😘😘😘😘😘😘😘😘😘😘😘😘😘😘"
 ];
 
 export const messages = [
-  "hari inii pada upacaraaa, kalo apit mah pacaran ma dedeeyy💕💕",
-  "dedey kalau di kiss apit mau berapa kaliiii? 😘😘😘😘😘😘😘😘😘😘😘😘😘😘"
+  "baru tau aku singkatan NPWP tuh ternyata Need Peluk With Pukpuk😖❤️",
+  "aku kangen nyetir ditemenin dedey:(... apit mau nyetirin dedey banyaaak2 soalnya dedey keliatan tenang banget kalo apit setirin😘",
+  "aku gatau emang kebetulan atau gimana, TA aku yang 1 tahun sama tece seakan2 ngebuat aku tuh gampang banget nerima kamu sayang💙💜💕💗 mungkin itu sebabnya dulu aku belum ketemu sama dedey, disuruh belajar dulu bergaul sama temennya dedey, kaya inikah jalannya?",
+  "apitt seneng banget dedey ngedukung usaha2 apit... tapi kadang apit suka overstimulate dan akhirnya terlalu mikirin usahaku dan nyampingin yang lainnya, maaf ya aku mau belajar buat bisa ngontrol diriku😔😔😘"
 ];
 
 export const openedMessages = new Set();
