@@ -148,7 +148,7 @@ export const pastMessages = [
 export const messages = [
   "baru tau aku singkatan NPWP tuh ternyata Need Peluk With Pukpuk😖❤️",
   "aku kangen nyetir ditemenin dedey:(... apit mau nyetirin dedey banyaaak2 soalnya dedey keliatan tenang banget kalo apit setirin😘",
-  "TA aku yang 1 tahun sama tece seakan2 ngebuat aku tuh gampang banget nerima kamu sayang💙💜💕💗 mungkin itu sebabnya dulu aku belum ketemu sama dedey, disuruh belajar dulu bergaul sama temennya dedey, aku selalu mikir kaya inikah jalannya?",
+  "aku selalu mikir kalo TA 1 tahun sama tece adalah jalan yang Allah siapin buat aku ketemu kamu lebih mudah sampe kita di tahap ini sayang🥰🥰🥰🥰",
   "apitt seneng banget dedey ngedukung usaha2 apit... tapi kadang apit suka overstimulate dan akhirnya terlalu mikirin usahaku dan nyampingin yang lainnya, maaf ya aku mau belajar buat bisa ngontrol diriku😔😔😘"
 ];
 
