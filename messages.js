@@ -148,14 +148,18 @@ export const pastMessages = [
   "aku selalu mikir kalo TA 1 tahun sama tece adalah jalan yang Allah siapin buat aku ketemu kamu lebih mudah sampe kita di tahap ini sayang🥰🥰🥰🥰",
   "apitt seneng banget dedey ngedukung usaha2 apit... tapi kadang apit suka overstimulate dan akhirnya terlalu mikirin usahaku dan nyampingin yang lainnya, maaf ya aku mau belajar buat bisa ngontrol diriku😔😔😘",
   "kita ini udah gaketemu berapa juta tahuunnnn???? kangen banget lama banget ya rasanya....🤯🤯🤯🤯🤯🤯🤯🥰",
-  "aku tuh ternyata kalo diinget2 emang naksir gituloh sama kamu dari awal liat dan nanya ttg kamu dari tece🫠🫠💗"
+  "aku tuh ternyata kalo diinget2 emang naksir gituloh sama kamu dari awal liat dan nanya ttg kamu dari tece🫠🫠💗",
+"h-4 lagii ketemuu dedeyyy, apit gasabar bangeet omg wowowowowowowowo🫠🫠🫠🫠❤️",
+  "sayang ini dangdutnya asik deh kl kita joget bareng sayaang😘😘😘🥰💕😀"
 
 
 ];
 
 export const messages = [
-  "h-4 lagii ketemuu dedeyyy, apit gasabar bangeet omg wowowowowowowowo🫠🫠🫠🫠❤️",
-  "sayang ini dangdutnya asik deh kl kita joget bareng sayaang😘😘😘🥰💕😀"
+  "sayang, loving you is one of the easiest thing that i ever do💜",
+  "h-2 lagii ketemuu dedeeyyy, yuhuuuuwww apit mauu main banyaak2 ma dedeyy🥰💗",
+  "tau ga kenapa aku selalu bilang hati-hati? karena i'm your man aku mau pastiin kamu baik2 aja kapanpun sayang😘",
+  "dedey kayanya makin sayang yaa mam apiit? apitt jugaa tauuuuu😡😡🥰🥰"
 ];
 
 export const openedMessages = new Set();
