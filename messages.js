@@ -158,12 +158,14 @@ export const pastMessages = [
   "dedeyy habis ketemu apit rasanya gimana? akuu seneeengggg bangeet walaupun dedeynya bete dikit sih😔😔",
   "makasih yaaa ajakk akuu jalan2 banyaak beli keramik, jadi mau beli keramik buat di rumah kita deh😘🥰💕",
   "semangaat ya sayangkuuuuuuu smogaa ga banyak betee2 lagiii, apittt maw nemenin dedeyy kook banyaakk2💗💗💗💗💗💗",
+  "cie adaa panggilan baru 'my love' XIXIXIXI kaya kasur💜💜💜💜💗💗💗🥰🥰💗💌💗💌💜💌💕❤️💌💗💜💌",
+  "aku lupa deh kamu make kacamata karena minus atau karena kamu mine?💕💕",
   "apit mau jadi suami dedey💐💍"
 ];
 
 export const messages = [
-  "cie adaa panggilan baru 'my love' XIXIXIXI kaya kasur💜💜💜💜💗💗💗🥰🥰💗💌💗💌💜💌💕❤️💌💗💜💌",
-  "aku lupa deh kamu make kacamata karena minus atau karena kamu mine?💕💕"
+  "hai kayanya kalo apit cek golongan darah mungkin tipenya adalah kamu sayangg 💗💗💗💗💗💗💗💗💗💗💗💗💗💗💗",
+  "sayaanggg aku liat kamuu sangat was wes wos ngurusin cookies ini, akuu rasa akuu gaterlalu banyak bantuu, but apit selalu dukung usaha kamuu sayangkuu... semangaat suksess aamiin💕💕"
 ];
 
 export const openedMessages = new Set();
