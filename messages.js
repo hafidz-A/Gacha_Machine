@@ -160,12 +160,15 @@ export const pastMessages = [
   "semangaat ya sayangkuuuuuuu smogaa ga banyak betee2 lagiii, apittt maw nemenin dedeyy kook banyaakk2💗💗💗💗💗💗",
   "cie adaa panggilan baru 'my love' XIXIXIXI kaya kasur💜💜💜💜💗💗💗🥰🥰💗💌💗💌💜💌💕❤️💌💗💜💌",
   "aku lupa deh kamu make kacamata karena minus atau karena kamu mine?💕💕",
-  "apit mau jadi suami dedey💐💍"
+  "apit mau jadi suami dedey💐💍",
+  "hai kayanya kalo apit cek golongan darah mungkin tipenya adalah kamu sayangg 💗💗💗💗💗💗💗💗💗💗💗💗💗💗💗",
+  "sayaanggg aku liat kamuu sangat was wes wos ngurusin cookies ini, akuu rasa akuu gaterlalu banyak bantuu, but apit selalu dukung usaha kamuu sayangkuu... semangaat suksess aamiin💕💕"
+
 ];
 
 export const messages = [
-  "hai kayanya kalo apit cek golongan darah mungkin tipenya adalah kamu sayangg 💗💗💗💗💗💗💗💗💗💗💗💗💗💗💗",
-  "sayaanggg aku liat kamuu sangat was wes wos ngurusin cookies ini, akuu rasa akuu gaterlalu banyak bantuu, but apit selalu dukung usaha kamuu sayangkuu... semangaat suksess aamiin💕💕"
+  "smp atau sma? sma sma kamuu teruss akuu sukanyaa sayangkuuu😘💍",
+  "aku sukaa ketawaa sama dedey, apalagi kalau ketawanya mmmmuuuaaahahhahahahahahahahaha😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘"
 ];
 
 export const openedMessages = new Set();
