@@ -164,14 +164,16 @@ export const pastMessages = [
   "hai kayanya kalo apit cek golongan darah mungkin tipenya adalah kamu sayangg 💗💗💗💗💗💗💗💗💗💗💗💗💗💗💗",
   "sayaanggg aku liat kamuu sangat was wes wos ngurusin cookies ini, akuu rasa akuu gaterlalu banyak bantuu, but apit selalu dukung usaha kamuu sayangkuu... semangaat suksess aamiin💕💕",
   "smp atau sma? sma sma kamuu teruss akuu sukanyaa sayangkuuu😘💍",
-  "aku sukaa ketawaa sama dedey, apalagi kalau ketawanya mmmmuuuaaahahhahahahahahahahaha😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘"
-];
-
-export const messages = [
+  "aku sukaa ketawaa sama dedey, apalagi kalau ketawanya mmmmuuuaaahahhahahahahahahahaha😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘",
   "walaupun kacamata kita beda minus, tapi kita sama-sama saling liat dan saling sukaa😘😘🥰",
   "sekuat-kuatnya otot apit, kena kiss dedey mleyot jugaak🫶",
   "smogaa kita kaya raya dalam waktu dekat dengan keadaan semuanya selamat aamiin ya Allah🤲🏻🤲🏻",
   "Bandung, Jakarta, Semarang, Yogyakarta tu kan semuanya ibukota. dedey insyaaAllah jadi ibu dari anak2 kitaa aamiin🤲🏻🤲🏻"
+];
+
+export const messages = [
+  "ayam kremes es kelapa hai gemes lagi apaaa?🧐😘",
+  "ikan lele main tenis, i love you manis❤️❤️❤️"
 ];
 
 export const openedMessages = new Set();
