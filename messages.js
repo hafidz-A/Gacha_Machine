@@ -170,7 +170,7 @@ export const pastMessages = [
   "smogaa kita kaya raya dalam waktu dekat dengan keadaan semuanya selamat aamiin ya Allah🤲🏻🤲🏻",
   "Bandung, Jakarta, Semarang, Yogyakarta tu kan semuanya ibukota. dedey insyaaAllah jadi ibu dari anak2 kitaa aamiin🤲🏻🤲🏻",
   "ayam kremes es kelapa hai gemes lagi apaaa?🧐😘",
-  "ikan lele main tenis, i love you manis❤️❤️❤️"
+  "ikan lele main tenis, i love you manis❤️❤️❤️",
   "akuu sama kamuu samasamaa ngelakuin apa yang kita suka setelah kita saling kenal saling suka. apit nyaman ma dedeyy apit sayang dedey💕",
   "mie apa yang enak sayaang? mienyayangimuu tiap hariii😘😘",
   "sayang kalo ketemu aku mau kis dan hug😡😡😡😞🤗😘",
