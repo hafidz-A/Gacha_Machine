@@ -174,15 +174,19 @@ export const pastMessages = [
   "akuu sama kamuu samasamaa ngelakuin apa yang kita suka setelah kita saling kenal saling suka. apit nyaman ma dedeyy apit sayang dedey💕",
   "mie apa yang enak sayaang? mienyayangimuu tiap hariii😘😘",
   "sayang kalo ketemu aku mau kis dan hug😡😡😡😞🤗😘",
-  "3 2 1 DUARRR apit suka sama dedey tiap hariii❤️❤️❤️❤️❤️❤️💌💌💌💌💌"
-
-];
-
-export const messages = [
+  "3 2 1 DUARRR apit suka sama dedey tiap hariii❤️❤️❤️❤️❤️❤️💌💌💌💌💌",
   "apit kangen banget sayaaang, there is something missing gituloohh😔😔💌",
   "jadi kapan dedey ngecet rambuuut? warna apa tapi?? warna apitt ajaah😋😘",
   "apit gasabar ke taman safari buat liat semua hewan2 lucuu ma dedeyy... kita harus ke taman safari karena kita juga lucuu😘😘😘",
   "kira2 hewan2nya baper ga ya liat kita pacaran di taman safari??? kan kita lucu dan gemeshh❤️"
+
+];
+
+export const messages = [
+  "dedeyy mau kan sama apit teruus?🥺🥺😘",
+  "sampe sekarang apit tambah suka sama dedeyy, smogaa tambah2 teruss yaa sayaangg❤️❤️",
+  "dedey selama sama apit, merasa lebih cantik ga? kalo aku iyaaa kamu kaya pede dengan banyak hal bukan cuma cantiknya ajaa😍😍😍",
+  "btw aku mau co-kisssss muahmuah dong mweheheheh"
 ];
 
 export const openedMessages = new Set();
