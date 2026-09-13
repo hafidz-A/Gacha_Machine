@@ -182,14 +182,16 @@ export const pastMessages = [
   "dedeyy mau kan sama apit teruus?🥺🥺😘",
   "sampe sekarang apit tambah suka sama dedeyy, smogaa tambah2 teruss yaa sayaangg❤️❤️",
   "dedey selama sama apit, merasa lebih cantik ga? kalo aku iyaaa kamu kaya pede dengan banyak hal bukan cuma cantiknya ajaa😍😍😍",
-  "btw aku mau co-kisssss muahmuah dong mweheheheh"
+  "btw aku mau co-kisssss muahmuah dong mweheheheh",
+  "makasii yaaaa mau ke sophilia dan menikmati isinya bareng2 akuu sangat senaang jadi berkesan banget tempatnyaaa😘😘😘",
+  "next kitaa orchestra yaaaa sayaang biar tempatnya bener2 berkesann++++❤️",
+  "aayaang ini macet aku pulangnyaa, untuk sukanya apit ke dedey lancarr2 ajaaahh mmuaahh😍"
 
 ];
 
 export const messages = [
-  "makasii yaaaa mau ke sophilia dan menikmati isinya bareng2 akuu sangat senaang jadi berkesan banget tempatnyaaa😘😘😘",
-  "next kitaa orchestra yaaaa sayaang biar tempatnya bener2 berkesann++++❤️",
-  "aayaang ini macet aku pulangnyaa, untuk sukanya apit ke dedey lancarr2 ajaaahh mmuaahh😍"
+  "dipikir2 ini udah hampir 200 message gacha, apit harap dedey senang sama semua yang apit tulis buat dedey yaaa sayangkuu😘",
+  "miss your subtle soft lips already here😔😔😘"
 ];
 
 export const openedMessages = new Set();
