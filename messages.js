@@ -187,13 +187,16 @@ export const pastMessages = [
   "next kitaa orchestra yaaaa sayaang biar tempatnya bener2 berkesann++++❤️",
   "aayaang ini macet aku pulangnyaa, untuk sukanya apit ke dedey lancarr2 ajaaahh mmuaahh😍",
   "dipikir2 ini udah hampir 200 message gacha, apit harap dedey senang sama semua yang apit tulis buat dedey yaaa sayangkuu😘",
-  "miss your subtle soft lips already here😔😔😘"
-
+  "miss your subtle soft lips already here😔😔😘",
+  "akunii kalau mau bikin pantun suka gagaal, belum apaa2 dedey udahh cakep duluan ya gimana yaa sayangkuu cantiik😘",
+  "sayang doa apit saat ini bukan cuma buat kita berdua, tapi buat aku, kamu, dan keluarga kita... dedey tolong doain juga yaaa sayang supaya tujuan kita sedeket sekarang ini bisa dilancarin sampe nikah nanti, aamiin🤲🏻"
 ];
 
 export const messages = [
-  "akunii kalau mau bikin pantun suka gagaal, belum apaa2 dedey udahh cakep duluan ya gimana yaa sayangkuu cantiik😘",
-  "sayang doa apit saat ini bukan cuma buat kita berdua, tapi buat aku, kamu, dan keluarga kita... dedey tolong doain juga yaaa sayang supaya tujuan kita sedeket sekarang ini bisa dilancarin sampe nikah nanti, aamiin🤲🏻"
+  "setelah semua hal yang kita jalanin di hari ini, aku minta maaf ya aku nyebelin hari ini, sorry for not being so lovely for you😞",
+  "kamu itu kalau difoto anglenya yang bagus atau emang dedey looks like an angle yah🥰🤨",
+  "buat skrg indomie kupinggirin dulu, soalnya kan dedey yang jadi seleraku😍",
+  "sekali lagi aku minta maaf ya sayangku🫶🏻"
 ];
 
 export const openedMessages = new Set();
