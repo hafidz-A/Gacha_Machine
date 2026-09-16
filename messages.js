@@ -196,7 +196,7 @@ export const messages = [
   "setelah semua hal yang kita jalanin di hari ini, aku minta maaf ya aku nyebelin hari ini, sorry for not being so lovely for you😞",
   "kamu itu kalau difoto anglenya yang bagus atau emang dedey looks like an angle yah🥰🤨",
   "buat skrg indomie kupinggirin dulu, soalnya kan dedey yang jadi seleraku😍",
-  "sekali lagi aku minta maaf ya sayangku🫶🏻"
+  "sekali lagi aku minta maaf ya sayangku🫶🏻, kita jalanin lagi hubungan kita spt biasanya tapi lebih baik lagi🥰"
 ];
 
 export const openedMessages = new Set();
