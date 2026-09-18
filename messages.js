@@ -189,14 +189,20 @@ export const pastMessages = [
   "dipikir2 ini udah hampir 200 message gacha, apit harap dedey senang sama semua yang apit tulis buat dedey yaaa sayangkuu😘",
   "miss your subtle soft lips already here😔😔😘",
   "akunii kalau mau bikin pantun suka gagaal, belum apaa2 dedey udahh cakep duluan ya gimana yaa sayangkuu cantiik😘",
-  "sayang doa apit saat ini bukan cuma buat kita berdua, tapi buat aku, kamu, dan keluarga kita... dedey tolong doain juga yaaa sayang supaya tujuan kita sedeket sekarang ini bisa dilancarin sampe nikah nanti, aamiin🤲🏻"
-];
-
-export const messages = [
+  "sayang doa apit saat ini bukan cuma buat kita berdua, tapi buat aku, kamu, dan keluarga kita... dedey tolong doain juga yaaa sayang supaya tujuan kita sedeket sekarang ini bisa dilancarin sampe nikah nanti, aamiin🤲🏻",
   "setelah semua hal yang kita jalanin di hari ini, aku minta maaf ya aku nyebelin hari ini, sorry for not being so lovely for you😞",
   "kamu itu kalau difoto anglenya yang bagus atau emang dedey looks like an angle yah🥰🤨",
   "buat skrg indomie kupinggirin dulu, soalnya kan dedey yang jadi seleraku😍",
   "sekali lagi aku minta maaf ya sayangku🫶🏻, kita jalanin lagi hubungan kita spt biasanya tapi lebih baik lagi🥰"
+
+
+];
+
+export const messages = [
+  "sayaang, kalo teazzi aja manis kamu lebih manis lagiii 🥰",
+  "🫶🏻🫶🏻🫶🏻",
+  "aku suka banget tau kalau dedey gelendotan sama apit, dedey tuh jadi kaya gemeesss banget 😛😍😍😍",
+  "ikan teri makan ayam, i love you sayaangg😘"
 ];
 
 export const openedMessages = new Set();
