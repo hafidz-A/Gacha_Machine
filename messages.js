@@ -193,16 +193,20 @@ export const pastMessages = [
   "setelah semua hal yang kita jalanin di hari ini, aku minta maaf ya aku nyebelin hari ini, sorry for not being so lovely for you😞",
   "kamu itu kalau difoto anglenya yang bagus atau emang dedey looks like an angle yah🥰🤨",
   "buat skrg indomie kupinggirin dulu, soalnya kan dedey yang jadi seleraku😍",
-  "sekali lagi aku minta maaf ya sayangku🫶🏻, kita jalanin lagi hubungan kita spt biasanya tapi lebih baik lagi🥰"
+  "sekali lagi aku minta maaf ya sayangku🫶🏻, kita jalanin lagi hubungan kita spt biasanya tapi lebih baik lagi🥰",
+  "sayaang, kalo teazzi aja manis kamu lebih manis lagiii 🥰",
+  "🫶🏻🫶🏻🫶🏻",
+  "aku suka banget tau kalau dedey gelendotan sama apit, dedey tuh jadi kaya gemeesss banget 😛😍😍😍",
+  "ikan teri makan ayam, i love you sayaangg😘"
 
 
 ];
 
 export const messages = [
-  "sayaang, kalo teazzi aja manis kamu lebih manis lagiii 🥰",
-  "🫶🏻🫶🏻🫶🏻",
-  "aku suka banget tau kalau dedey gelendotan sama apit, dedey tuh jadi kaya gemeesss banget 😛😍😍😍",
-  "ikan teri makan ayam, i love you sayaangg😘"
+  "kayaa lama banget deh sayang kita gaketemuan, kangen bangeeett 100000%😞😞😞",
+  "apit suka dedeyy, dedey selalu bikin apit tau lebih banyak hal gituu😘😘",
+  "aku tuh suka bingung sama orang kepikiran katakata lucu gituu... yang dipikiran apit cuma ada dedey soalnya 😍😍😍",
+  "sayaaang apit mau banget beli laptop tapi ditemenin ma dedeyy🥺"
 ];
 
 export const openedMessages = new Set();
