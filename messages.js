@@ -203,13 +203,14 @@ export const pastMessages = [
   "aku tuh suka bingung sama orang kepikiran katakata lucu gituu... yang dipikiran apit cuma ada dedey soalnya 😍😍😍",
   "sayaaang apit mau banget beli laptop tapi ditemenin ma dedeyy🥺",
   "Aku gamau overthink dan nethink lagi deh sayang, wish you all the best yaa buatt cita-cita dedey apit dukung selalu, apit tunggu momen ketika apit nanya 'gimana your first day belajar di belanda' seems great baby 😍😍😍",
-  "semangat yaa buat hari-harinya sayangku, aku sayang sama dedey😘😘"
-
+  "semangat yaa buat hari-harinya sayangku, aku sayang sama dedey😘😘",
+  "dedey sayang punya apit kann? dedey punya apit, apit gamau sama yang lain😖😖😖",
+  "kenapa 10-4=6? karena cintaku padamu 6bah teruss mwehehehhehehe lopplopp🫶🏻🫶🏻🫶🏻"
 ];
 
 export const messages = [
-  "dedey sayang punya apit kann? dedey punya apit, apit gamau sama yang lain😖😖😖",
-  "kenapa 10-4=6? karena cintaku padamu 6bah teruss mwehehehhehehe lopplopp🫶🏻🫶🏻🫶🏻"
+  "2 3 kucing berlari... kenapa 2 3 ya kan dedey pacar apit satusatunya gaada yang lain apit sayang banget sama dedeyyy mmuuaahhh😘😘😘😘",
+  "kalo apit kecintaan gini ma dedey, dedeyy suka ga? atau apit harus biasa aja?😞😞 gamau ah aku😡😡"
 ];
 
 export const openedMessages = new Set();
