@@ -207,7 +207,7 @@ export const pastMessages = [
   "dedey sayang punya apit kann? dedey punya apit, apit gamau sama yang lain😖😖😖",
   "kenapa 10-4=6? karena cintaku padamu 6bah teruss mwehehehhehehe lopplopp🫶🏻🫶🏻🫶🏻",
     "2 3 kucing berlari... kenapa 2 3 ya kan dedey pacar apit satusatunya gaada yang lain apit sayang banget sama dedeyyy mmuuaahhh😘😘😘😘",
-  "kalo apit kecintaan gini ma dedey, dedeyy suka ga? atau apit harus biasa aja?😞😞 gamau ah aku😡😡"
+  "kalo apit kecintaan gini ma dedey, dedeyy suka ga? atau apit harus biasa aja?😞😞 gamau ah aku😡😡",
   "dedeyy sayaang, semoga apa yang ada di mimpi dedey ga kejadian yaa😞 walaupun apit gatau isinya apa tapi yang jelas dedey kasian banget sampe sedih begituu. Love youu babeee😘😘",
   "secepatnya apit bikin gancii buat dedeyy yaaaaaa... muuaahhhh😍😍"
 ];
