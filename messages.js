@@ -209,7 +209,8 @@ export const pastMessages = [
     "2 3 kucing berlari... kenapa 2 3 ya kan dedey pacar apit satusatunya gaada yang lain apit sayang banget sama dedeyyy mmuuaahhh😘😘😘😘",
   "kalo apit kecintaan gini ma dedey, dedeyy suka ga? atau apit harus biasa aja?😞😞 gamau ah aku😡😡",
   "dedeyy sayaang, semoga apa yang ada di mimpi dedey ga kejadian yaa😞 walaupun apit gatau isinya apa tapi yang jelas dedey kasian banget sampe sedih begituu. Love youu babeee😘😘",
-  "secepatnya apit bikin gancii buat dedeyy yaaaaaa... muuaahhhh😍  "first timer wfc sama dedeyy, pengalaman yang sangat berkesaan dan apit tambah sukakk ma dedeyy❤️❤️❤️❤️❤️",
+  "secepatnya apit bikin gancii buat dedeyy yaaaaaa... muuaahhhh😍",
+   "first timer wfc sama dedeyy, pengalaman yang sangat berkesaan dan apit tambah sukakk ma dedeyy❤️❤️❤️❤️❤️",
   "maafin yaa apit gabisa nemenin dedeyy buat beli butter tadii😔😔... padahal dedeyy pengen banget ma apiitt kan🥺",
 
 
