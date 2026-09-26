@@ -211,7 +211,7 @@ export const pastMessages = [
   "dedeyy sayaang, semoga apa yang ada di mimpi dedey ga kejadian yaa😞 walaupun apit gatau isinya apa tapi yang jelas dedey kasian banget sampe sedih begituu. Love youu babeee😘😘",
   "secepatnya apit bikin gancii buat dedeyy yaaaaaa... muuaahhhh😍",
    "first timer wfc sama dedeyy, pengalaman yang sangat berkesaan dan apit tambah sukakk ma dedeyy❤️❤️❤️❤️❤️",
-  "maafin yaa apit gabisa nemenin dedeyy buat beli butter tadii😔😔... padahal dedeyy pengen banget ma apiitt kan🥺",
+  "maafin yaa apit gabisa nemenin dedeyy buat beli butter tadii😔😔... padahal dedeyy pengen banget ma apiitt kan🥺"
 
 
 
