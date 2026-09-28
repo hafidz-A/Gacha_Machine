@@ -211,15 +211,16 @@ export const pastMessages = [
   "dedeyy sayaang, semoga apa yang ada di mimpi dedey ga kejadian yaa😞 walaupun apit gatau isinya apa tapi yang jelas dedey kasian banget sampe sedih begituu. Love youu babeee😘😘",
   "secepatnya apit bikin gancii buat dedeyy yaaaaaa... muuaahhhh😍",
    "first timer wfc sama dedeyy, pengalaman yang sangat berkesaan dan apit tambah sukakk ma dedeyy❤️❤️❤️❤️❤️",
-  "maafin yaa apit gabisa nemenin dedeyy buat beli butter tadii😔😔... padahal dedeyy pengen banget ma apiitt kan🥺"
-
-
-
+  "maafin yaa apit gabisa nemenin dedeyy buat beli butter tadii😔😔... padahal dedeyy pengen banget ma apiitt kan🥺",
+  "sayangku cintaku manisku besok kita senang2 lagi yaa sampe kita puas... 😘",
+  "https://digibouquet.net/bouquet/1ddceb01-0bad-47e2-9cb6-4070bed7ca7d, pass:230526 ini buat dedey kesayangan apit❤️"
 ];
 
 export const messages = [
-  "sayangku cintaku manisku besok kita senang2 lagi yaa sampe kita puas... 😘",
-  "https://digibouquet.net/bouquet/1ddceb01-0bad-47e2-9cb6-4070bed7ca7d, pass:230526 ini buat dedey kesayangan apit❤️"
+  "kaya udah 1000000 tahun ga kiss dedey😔",
+  "apit mau main lagi sama dedeeeyyy, jangan bosen bosenn ya main ma apiit😘",
+  "botnya sangat helpful kan sayang? semoga apa yang apit bikinin buat dedey awett2 semua yaa sayaang🫶🏻🫶🏻",
+  "semenjak apit ma dedey ternyata dedey tambah nempel sama apit... apit suka bangeett❤️"
 ];
 
 export const openedMessages = new Set();
