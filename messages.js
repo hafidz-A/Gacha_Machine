@@ -213,14 +213,16 @@ export const pastMessages = [
    "first timer wfc sama dedeyy, pengalaman yang sangat berkesaan dan apit tambah sukakk ma dedeyy❤️❤️❤️❤️❤️",
   "maafin yaa apit gabisa nemenin dedeyy buat beli butter tadii😔😔... padahal dedeyy pengen banget ma apiitt kan🥺",
   "sayangku cintaku manisku besok kita senang2 lagi yaa sampe kita puas... 😘",
-  "https://digibouquet.net/bouquet/1ddceb01-0bad-47e2-9cb6-4070bed7ca7d, pass:230526 ini buat dedey kesayangan apit❤️"
-];
-
-export const messages = [
+  "https://digibouquet.net/bouquet/1ddceb01-0bad-47e2-9cb6-4070bed7ca7d, pass:230526 ini buat dedey kesayangan apit❤️",
   "kaya udah 1000000 tahun ga kiss dedey😔",
   "apit mau main lagi sama dedeeeyyy, jangan bosen bosenn ya main ma apiit😘",
   "botnya sangat helpful kan sayang? semoga apa yang apit bikinin buat dedey awett2 semua yaa sayaang🫶🏻🫶🏻",
   "semenjak apit ma dedey ternyata dedey tambah nempel sama apit... apit suka bangeett❤️"
+];
+
+export const messages = [
+  "apit pengen deh dengerin detak jantungnya dedey, sambil hug enakk, apitt sayang dedey soalnya❤️❤️",
+  "dedeyku sayaang, apit mau hati hati teruus ahh, soalnya hatiku isinya banyak dedeyy hehe😘😘😘"
 ];
 
 export const openedMessages = new Set();
