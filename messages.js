@@ -217,12 +217,15 @@ export const pastMessages = [
   "kaya udah 1000000 tahun ga kiss dedey😔",
   "apit mau main lagi sama dedeeeyyy, jangan bosen bosenn ya main ma apiit😘",
   "botnya sangat helpful kan sayang? semoga apa yang apit bikinin buat dedey awett2 semua yaa sayaang🫶🏻🫶🏻",
-  "semenjak apit ma dedey ternyata dedey tambah nempel sama apit... apit suka bangeett❤️"
+  "semenjak apit ma dedey ternyata dedey tambah nempel sama apit... apit suka bangeett❤️",
+  "apit pengen deh dengerin detak jantungnya dedey, sambil hug enakk, apitt sayang dedey soalnya❤️❤️",
+  "dedeyku sayaang, apit mau hati hati teruus ahh, soalnya hatiku isinya banyak dedeyy hehe😘😘😘"
 ];
 
 export const messages = [
-  "apit pengen deh dengerin detak jantungnya dedey, sambil hug enakk, apitt sayang dedey soalnya❤️❤️",
-  "dedeyku sayaang, apit mau hati hati teruus ahh, soalnya hatiku isinya banyak dedeyy hehe😘😘😘"
+  "mitsubishi?❌... misuubeby✅",
+  "maaci yaa dah main sama apiit, nanti kita main lebih asik lagii yaaa:(( apit kangen dedeyy banget",
+  "dedeyy beneran seneng kan main sama akuu? aku seneeng sayaaang kaya sebelum ke banjarmasin apit ketemu dedey duluu🥰🥰🥰😍😘"
 ];
 
 export const openedMessages = new Set();
