@@ -219,13 +219,19 @@ export const pastMessages = [
   "botnya sangat helpful kan sayang? semoga apa yang apit bikinin buat dedey awett2 semua yaa sayaang🫶🏻🫶🏻",
   "semenjak apit ma dedey ternyata dedey tambah nempel sama apit... apit suka bangeett❤️",
   "apit pengen deh dengerin detak jantungnya dedey, sambil hug enakk, apitt sayang dedey soalnya❤️❤️",
-  "dedeyku sayaang, apit mau hati hati teruus ahh, soalnya hatiku isinya banyak dedeyy hehe😘😘😘"
-];
-
-export const messages = [
+  "dedeyku sayaang, apit mau hati hati teruus ahh, soalnya hatiku isinya banyak dedeyy hehe😘😘😘",
   "mitsubishi?❌... misuubeby✅",
   "maaci yaa dah main sama apiit, nanti kita main lebih asik lagii yaaa:(( apit kangen dedeyy banget",
   "dedeyy beneran seneng kan main sama akuu? aku seneeng sayaaang kaya sebelum ke banjarmasin apit ketemu dedey duluu🥰🥰🥰😍😘"
+
+
+];
+
+export const messages = [
+  "sayang makasih ya doa doanya apit yakin dibalik kartap ini ada doa dedey jugaa ❤️",
+  "saat ini ada 9 wishlist kitaa, semoga kesampean semua dan nambah terus ya sayangkuuu😘😘",
+  "waktu dedey bilang dedey bau, apit langsung cium dedey supaya apit inget terus sama baunya, biar kangen terus😞😍",
+  "apit kangen disuapin sama dedey lagiii🥺"
 ];
 
 export const openedMessages = new Set();
