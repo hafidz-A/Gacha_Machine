@@ -222,16 +222,18 @@ export const pastMessages = [
   "dedeyku sayaang, apit mau hati hati teruus ahh, soalnya hatiku isinya banyak dedeyy hehe😘😘😘",
   "mitsubishi?❌... misuubeby✅",
   "maaci yaa dah main sama apiit, nanti kita main lebih asik lagii yaaa:(( apit kangen dedeyy banget",
-  "dedeyy beneran seneng kan main sama akuu? aku seneeng sayaaang kaya sebelum ke banjarmasin apit ketemu dedey duluu🥰🥰🥰😍😘"
-
+  "dedeyy beneran seneng kan main sama akuu? aku seneeng sayaaang kaya sebelum ke banjarmasin apit ketemu dedey duluu🥰🥰🥰😍😘",
+    "sayang makasih ya doa doanya apit yakin dibalik kartap ini ada doa dedey jugaa ❤️",
+  "saat ini ada 9 wishlist kitaa, semoga kesampean semua dan nambah terus ya sayangkuuu😘😘",
+  "waktu dedey bilang dedey bau, apit langsung cium dedey supaya apit inget terus sama baunya, biar kangen terus😞😍",
+  "apit kangen disuapin sama dedey lagiii🥺"
 
 ];
 
 export const messages = [
-  "sayang makasih ya doa doanya apit yakin dibalik kartap ini ada doa dedey jugaa ❤️",
-  "saat ini ada 9 wishlist kitaa, semoga kesampean semua dan nambah terus ya sayangkuuu😘😘",
-  "waktu dedey bilang dedey bau, apit langsung cium dedey supaya apit inget terus sama baunya, biar kangen terus😞😍",
-  "apit kangen disuapin sama dedey lagiii🥺"
+  "DEDEY SAYANG MARAH2NYA JANGAN SAMPE MARAH SAMA APIIITT...😖😖😖 APIT TAKUT HUHUHUH",
+  "dedey sehatt-sehat  yaa sayang ditengah wasweswos kerjaanya dedeeyyy:((( apitt dukung dedey terus kaya apit beliin tizi buat dedeyyy😘😘😘😘😘😘😘😘",
+  "Nanti kita ketemu lagi yahh buat recharge energi kita masin-masing... apit kangen banget mentoookkkkkkk😞😞😞😞😞😞😞😞😞"
 ];
 
 export const openedMessages = new Set();
