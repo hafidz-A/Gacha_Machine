@@ -226,14 +226,16 @@ export const pastMessages = [
     "sayang makasih ya doa doanya apit yakin dibalik kartap ini ada doa dedey jugaa ❤️",
   "saat ini ada 9 wishlist kitaa, semoga kesampean semua dan nambah terus ya sayangkuuu😘😘",
   "waktu dedey bilang dedey bau, apit langsung cium dedey supaya apit inget terus sama baunya, biar kangen terus😞😍",
-  "apit kangen disuapin sama dedey lagiii🥺"
+  "apit kangen disuapin sama dedey lagiii🥺",
+ "DEDEY SAYANG MARAH2NYA JANGAN SAMPE MARAH SAMA APIIITT...😖😖😖 APIT TAKUT HUHUHUH",
+  "dedey sehatt-sehat  yaa sayang ditengah wasweswos kerjaanya dedeeyyy:((( apitt dukung dedey terus kaya apit beliin tizi buat dedeyyy😘😘😘😘😘😘😘😘",
+  "Nanti kita ketemu lagi yahh buat recharge energi kita masin-masing... apit kangen banget mentoookkkkkkk😞😞😞😞😞😞😞😞😞"
 
 ];
 
 export const messages = [
-  "DEDEY SAYANG MARAH2NYA JANGAN SAMPE MARAH SAMA APIIITT...😖😖😖 APIT TAKUT HUHUHUH",
-  "dedey sehatt-sehat  yaa sayang ditengah wasweswos kerjaanya dedeeyyy:((( apitt dukung dedey terus kaya apit beliin tizi buat dedeyyy😘😘😘😘😘😘😘😘",
-  "Nanti kita ketemu lagi yahh buat recharge energi kita masin-masing... apit kangen banget mentoookkkkkkk😞😞😞😞😞😞😞😞😞"
+  "dedey sayangg kan gabisa cium pipi sendirii? gimana kalau apit bantuiinn🤨🤨😍",
+  "badan aku ini agak lemes sayang, kayanya aku butuh kal-cium, kalcium itu ada di protein dan muah muahaaan sayaang🥺🥺😘😘😘😘😘"
 ];
 
 export const openedMessages = new Set();
