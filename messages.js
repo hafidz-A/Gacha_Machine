@@ -115,7 +115,7 @@ export const pastMessages = [
   "aku make kacamata mau gamake, liat dedey tetep sayang banget gaketolong🥹🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰",
   "how lucky i am to have something that makes saying goodbye so hard, like goodbye dedey🥺🥺🥺🥺🥺🥺🥺❤️",
   "dedeyku sayaang, hari ini aku tau dedey cape banget, sedih jugaa, tapi apit yakin dedeyy kuattt💪. Semoga Allah kasih gantinya buat besok2 dedey biar lebih baik drpd hari ini",
-   "dedeyy sayaang, pelatihan minggu ini yang semangaat yaaa💕💕 apitt tunggu jadi advokat kesayangan apiitt😘",
+  "dedeyy sayaang, pelatihan minggu ini yang semangaat yaaa💕💕 apitt tunggu jadi advokat kesayangan apiitt😘",
   "sayangkuu semoga tempat tinggal barunya nyaman, bikin dedey betah dan gabanyak ngeluh, jadi lebih deket lagi sama tan... love youu babyyy💕🥰",
   "apittt seneng bisa nemenin dedeyy teruss sampe sekarang❤️",
   "dedey sayaang, gimana kelas pertamanya hari ini? kalau hari ini belum bisa cerita... bisa besok lagi ajaaa... yang penting dedey jangan lupa istirahaatt🥺💕 semangaaaattt🤏🏼🤏🏼💪",
@@ -139,7 +139,7 @@ export const pastMessages = [
   "kok aku makin sukaa yaa samaa dedey🥺🥺💍",
   "emang bener deh sayang, setiap kali kamu jauh sama aku langsung sariawan, bener2 butuh vitamin K🥺🥺🥺😘😘",
   "ketika alayku bertemu dengan alaymu, maka terbitlah aylafyuu sayaangg mweheheheh💕💕💕💕",
-    "sayang, aku minta maaf hari ini buat kamu gaenak malem2nya. gimanapun yang terjadi apit tetep sayang sama dedey🥺💕",
+  "sayang, aku minta maaf hari ini buat kamu gaenak malem2nya. gimanapun yang terjadi apit tetep sayang sama dedey🥺💕",
   "bakal apit usahain dedey yang jadi istri impian apit inii❤️❤️❤️❤️❤️",
   "hari inii pada upacaraaa, kalo apit mah pacaran ma dedeeyy💕💕",
   "dedey kalau di kiss apit mau berapa kaliiii? 😘😘😘😘😘😘😘😘😘😘😘😘😘😘",
@@ -149,9 +149,9 @@ export const pastMessages = [
   "apitt seneng banget dedey ngedukung usaha2 apit... tapi kadang apit suka overstimulate dan akhirnya terlalu mikirin usahaku dan nyampingin yang lainnya, maaf ya aku mau belajar buat bisa ngontrol diriku😔😔😘",
   "kita ini udah gaketemu berapa juta tahuunnnn???? kangen banget lama banget ya rasanya....🤯🤯🤯🤯🤯🤯🤯🥰",
   "aku tuh ternyata kalo diinget2 emang naksir gituloh sama kamu dari awal liat dan nanya ttg kamu dari tece🫠🫠💗",
-"h-4 lagii ketemuu dedeyyy, apit gasabar bangeet omg wowowowowowowowo🫠🫠🫠🫠❤️",
+  "h-4 lagii ketemuu dedeyyy, apit gasabar bangeet omg wowowowowowowowo🫠🫠🫠🫠❤️",
   "sayang ini dangdutnya asik deh kl kita joget bareng sayaang😘😘😘🥰💕😀",
-    "sayang, loving you is one of the easiest thing that i ever do💜",
+  "sayang, loving you is one of the easiest thing that i ever do💜",
   "h-2 lagii ketemuu dedeeyyy, yuhuuuuwww apit mauu main banyaak2 ma dedeyy🥰💗",
   "tau ga kenapa aku selalu bilang hati-hati? karena i'm your man aku mau pastiin kamu baik2 aja kapanpun sayang😘",
   "dedey kayanya makin sayang yaa mam apiit? apitt jugaa tauuuuu😡😡🥰🥰",
@@ -198,7 +198,7 @@ export const pastMessages = [
   "🫶🏻🫶🏻🫶🏻",
   "aku suka banget tau kalau dedey gelendotan sama apit, dedey tuh jadi kaya gemeesss banget 😛😍😍😍",
   "ikan teri makan ayam, i love you sayaangg😘",
-    "kayaa lama banget deh sayang kita gaketemuan, kangen bangeeett 100000%😞😞😞",
+  "kayaa lama banget deh sayang kita gaketemuan, kangen bangeeett 100000%😞😞😞",
   "apit suka dedeyy, dedey selalu bikin apit tau lebih banyak hal gituu😘😘",
   "aku tuh suka bingung sama orang kepikiran katakata lucu gituu... yang dipikiran apit cuma ada dedey soalnya 😍😍😍",
   "sayaaang apit mau banget beli laptop tapi ditemenin ma dedeyy🥺",
@@ -206,11 +206,11 @@ export const pastMessages = [
   "semangat yaa buat hari-harinya sayangku, aku sayang sama dedey😘😘",
   "dedey sayang punya apit kann? dedey punya apit, apit gamau sama yang lain😖😖😖",
   "kenapa 10-4=6? karena cintaku padamu 6bah teruss mwehehehhehehe lopplopp🫶🏻🫶🏻🫶🏻",
-    "2 3 kucing berlari... kenapa 2 3 ya kan dedey pacar apit satusatunya gaada yang lain apit sayang banget sama dedeyyy mmuuaahhh😘😘😘😘",
+  "2 3 kucing berlari... kenapa 2 3 ya kan dedey pacar apit satusatunya gaada yang lain apit sayang banget sama dedeyyy mmuuaahhh😘😘😘😘",
   "kalo apit kecintaan gini ma dedey, dedeyy suka ga? atau apit harus biasa aja?😞😞 gamau ah aku😡😡",
   "dedeyy sayaang, semoga apa yang ada di mimpi dedey ga kejadian yaa😞 walaupun apit gatau isinya apa tapi yang jelas dedey kasian banget sampe sedih begituu. Love youu babeee😘😘",
   "secepatnya apit bikin gancii buat dedeyy yaaaaaa... muuaahhhh😍",
-   "first timer wfc sama dedeyy, pengalaman yang sangat berkesaan dan apit tambah sukakk ma dedeyy❤️❤️❤️❤️❤️",
+  "first timer wfc sama dedeyy, pengalaman yang sangat berkesaan dan apit tambah sukakk ma dedeyy❤️❤️❤️❤️❤️",
   "maafin yaa apit gabisa nemenin dedeyy buat beli butter tadii😔😔... padahal dedeyy pengen banget ma apiitt kan🥺",
   "sayangku cintaku manisku besok kita senang2 lagi yaa sampe kita puas... 😘",
   "https://digibouquet.net/bouquet/1ddceb01-0bad-47e2-9cb6-4070bed7ca7d, pass:230526 ini buat dedey kesayangan apit❤️",
@@ -223,19 +223,20 @@ export const pastMessages = [
   "mitsubishi?❌... misuubeby✅",
   "maaci yaa dah main sama apiit, nanti kita main lebih asik lagii yaaa:(( apit kangen dedeyy banget",
   "dedeyy beneran seneng kan main sama akuu? aku seneeng sayaaang kaya sebelum ke banjarmasin apit ketemu dedey duluu🥰🥰🥰😍😘",
-    "sayang makasih ya doa doanya apit yakin dibalik kartap ini ada doa dedey jugaa ❤️",
+  "sayang makasih ya doa doanya apit yakin dibalik kartap ini ada doa dedey jugaa ❤️",
   "saat ini ada 9 wishlist kitaa, semoga kesampean semua dan nambah terus ya sayangkuuu😘😘",
   "waktu dedey bilang dedey bau, apit langsung cium dedey supaya apit inget terus sama baunya, biar kangen terus😞😍",
   "apit kangen disuapin sama dedey lagiii🥺",
- "DEDEY SAYANG MARAH2NYA JANGAN SAMPE MARAH SAMA APIIITT...😖😖😖 APIT TAKUT HUHUHUH",
+  "DEDEY SAYANG MARAH2NYA JANGAN SAMPE MARAH SAMA APIIITT...😖😖😖 APIT TAKUT HUHUHUH",
   "dedey sehatt-sehat  yaa sayang ditengah wasweswos kerjaanya dedeeyyy:((( apitt dukung dedey terus kaya apit beliin tizi buat dedeyyy😘😘😘😘😘😘😘😘",
-  "Nanti kita ketemu lagi yahh buat recharge energi kita masin-masing... apit kangen banget mentoookkkkkkk😞😞😞😞😞😞😞😞😞"
-
+  "Nanti kita ketemu lagi yahh buat recharge energi kita masin-masing... apit kangen banget mentoookkkkkkk😞😞😞😞😞😞😞😞😞",
+  "dedey sayangg kan gabisa cium pipi sendirii? gimana kalau apit bantuiinn🤨🤨😍",
+  "badan aku ini agak lemes sayang, kayanya aku butuh kal-cium, kalcium itu ada di protein dan muah muahaaan sayaang🥺🥺😘😘😘😘😘"
 ];
 
 export const messages = [
-  "dedey sayangg kan gabisa cium pipi sendirii? gimana kalau apit bantuiinn🤨🤨😍",
-  "badan aku ini agak lemes sayang, kayanya aku butuh kal-cium, kalcium itu ada di protein dan muah muahaaan sayaang🥺🥺😘😘😘😘😘"
+  "dedeyy sayang mohon kesabarannya sampai hari jumat insyaaAllah apit jempuuuuuttt dengan penuh kasih dan sayang😘😘😘😘😘😘",
+  "🥰🥰🥰😍😘🥰🥰🥰😍😘heheheheheheheycantikmanislucumuahhapitsayangdedeyhehehehehehehehehehhe🥰🥰🥰😍😘🥰🥰🥰😍😘🥰🥰🥰😍😘"
 ];
 
 export const openedMessages = new Set();
