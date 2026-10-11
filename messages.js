@@ -231,12 +231,16 @@ export const pastMessages = [
   "dedey sehatt-sehat  yaa sayang ditengah wasweswos kerjaanya dedeeyyy:((( apitt dukung dedey terus kaya apit beliin tizi buat dedeyyy😘😘😘😘😘😘😘😘",
   "Nanti kita ketemu lagi yahh buat recharge energi kita masin-masing... apit kangen banget mentoookkkkkkk😞😞😞😞😞😞😞😞😞",
   "dedey sayangg kan gabisa cium pipi sendirii? gimana kalau apit bantuiinn🤨🤨😍",
-  "badan aku ini agak lemes sayang, kayanya aku butuh kal-cium, kalcium itu ada di protein dan muah muahaaan sayaang🥺🥺😘😘😘😘😘"
+  "badan aku ini agak lemes sayang, kayanya aku butuh kal-cium, kalcium itu ada di protein dan muah muahaaan sayaang🥺🥺😘😘😘😘😘",
+  "dedeyy sayang mohon kesabarannya sampai hari jumat insyaaAllah apit jempuuuuuttt dengan penuh kasih dan sayang😘😘😘😘😘😘",
+  "🥰🥰🥰😍😘🥰🥰🥰😍😘heheheheheheheycantikmanislucumuahhapitsayangdedeyhehehehehehehehehehhe🥰🥰🥰😍😘🥰🥰🥰😍😘🥰🥰🥰😍😘"
 ];
 
 export const messages = [
-  "dedeyy sayang mohon kesabarannya sampai hari jumat insyaaAllah apit jempuuuuuttt dengan penuh kasih dan sayang😘😘😘😘😘😘",
-  "🥰🥰🥰😍😘🥰🥰🥰😍😘heheheheheheheycantikmanislucumuahhapitsayangdedeyhehehehehehehehehehhe🥰🥰🥰😍😘🥰🥰🥰😍😘🥰🥰🥰😍😘"
+  "sayang walaupun di tempat apit WITA dan dedey WIB tapi tetep aja apit sayaang dedey😘😌",
+  "sebenernya apit punya freelance tauu, mencintai dedey dan menyayangi dedey muahmuaaahhh😘😘😛😛😛🥰🥰🥰🫶🏻🫶🏻🫶🏻🫶🏻🫶🏻🫶🏻🫶🏻🫶🏻 ",
+  "apit pengen nemenin dedeyy sepatuu nanti kita liaat2 bareng sayaangkuuu cantiik😗😗😻",
+  "temenin apittt nyari parfum yuukkk yang afnan kemaren apit beli... apit penasaran bangeeettt😿😿"
 ];
 
 export const openedMessages = new Set();
