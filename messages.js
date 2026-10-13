@@ -233,14 +233,19 @@ export const pastMessages = [
   "dedey sayangg kan gabisa cium pipi sendirii? gimana kalau apit bantuiinn🤨🤨😍",
   "badan aku ini agak lemes sayang, kayanya aku butuh kal-cium, kalcium itu ada di protein dan muah muahaaan sayaang🥺🥺😘😘😘😘😘",
   "dedeyy sayang mohon kesabarannya sampai hari jumat insyaaAllah apit jempuuuuuttt dengan penuh kasih dan sayang😘😘😘😘😘😘",
-  "🥰🥰🥰😍😘🥰🥰🥰😍😘heheheheheheheycantikmanislucumuahhapitsayangdedeyhehehehehehehehehehhe🥰🥰🥰😍😘🥰🥰🥰😍😘🥰🥰🥰😍😘"
-];
-
-export const messages = [
-  "sayang walaupun di tempat apit WITA dan dedey WIB tapi tetep aja apit sayaang dedey😘😌",
+  "🥰🥰🥰😍😘🥰🥰🥰😍😘heheheheheheheycantikmanislucumuahhapitsayangdedeyhehehehehehehehehehhe🥰🥰🥰😍😘🥰🥰🥰😍😘🥰🥰🥰😍😘",
+    "sayang walaupun di tempat apit WITA dan dedey WIB tapi tetep aja apit sayaang dedey😘😌",
   "sebenernya apit punya freelance tauu, mencintai dedey dan menyayangi dedey muahmuaaahhh😘😘😛😛😛🥰🥰🥰🫶🏻🫶🏻🫶🏻🫶🏻🫶🏻🫶🏻🫶🏻🫶🏻 ",
   "apit pengen nemenin dedeyy sepatuu nanti kita liaat2 bareng sayaangkuuu cantiik😗😗😻",
   "temenin apittt nyari parfum yuukkk yang afnan kemaren apit beli... apit penasaran bangeeettt😿😿"
+
+
+];
+
+export const messages = [
+  "walaupun kita jauh, tapi dedey deket di hati apiiiit🫶🏻🫶🏻🫶🏻",
+  "so grateful having the best gf that always support me🥰🥰",
+  "HUHUHU PELUK JAUHHH YANG DEKAAAT BANYAK2 SAMA DEDEY🤗🤗🤗🤗🤗"
 ];
 
 export const openedMessages = new Set();
