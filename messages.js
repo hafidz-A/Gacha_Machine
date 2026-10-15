@@ -237,15 +237,19 @@ export const pastMessages = [
     "sayang walaupun di tempat apit WITA dan dedey WIB tapi tetep aja apit sayaang dedey😘😌",
   "sebenernya apit punya freelance tauu, mencintai dedey dan menyayangi dedey muahmuaaahhh😘😘😛😛😛🥰🥰🥰🫶🏻🫶🏻🫶🏻🫶🏻🫶🏻🫶🏻🫶🏻🫶🏻 ",
   "apit pengen nemenin dedeyy sepatuu nanti kita liaat2 bareng sayaangkuuu cantiik😗😗😻",
-  "temenin apittt nyari parfum yuukkk yang afnan kemaren apit beli... apit penasaran bangeeettt😿😿"
+  "temenin apittt nyari parfum yuukkk yang afnan kemaren apit beli... apit penasaran bangeeettt😿😿",
+  "walaupun kita jauh, tapi dedey deket di hati apiiiit🫶🏻🫶🏻🫶🏻",
+  "so grateful having the best gf that always support me🥰🥰",
+  "HUHUHU PELUK JAUHHH YANG DEKAAAT BANYAK2 SAMA DEDEY🤗🤗🤗🤗🤗"
 
 
 ];
 
 export const messages = [
-  "walaupun kita jauh, tapi dedey deket di hati apiiiit🫶🏻🫶🏻🫶🏻",
-  "so grateful having the best gf that always support me🥰🥰",
-  "HUHUHU PELUK JAUHHH YANG DEKAAAT BANYAK2 SAMA DEDEY🤗🤗🤗🤗🤗"
+  "sayang kamu tu ibarat nyamuk, walaupun sudah pejem tapi masih berputar2 di kepala apit❤️❤️❤️❤️",
+  "kamu tuh jangan sering marah2, kan kita mau menua bersamaa😞😞😘😘",
+  "KALAU KETEMU HARUS KISS LAMA YAAAA😔🫶🏻",
+  "kangen banget deehh parah banget kangennya gakebayang kalau gaada teknologi yang namanya watsap😗😛😛🥰🥰🥰"
 ];
 
 export const openedMessages = new Set();
