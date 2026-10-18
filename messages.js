@@ -244,7 +244,7 @@ export const pastMessages = [
   "sayang kamu tu ibarat nyamuk, walaupun sudah pejem tapi masih berputar2 di kepala apit❤️❤️❤️❤️",
   "kamu tuh jangan sering marah2, kan kita mau menua bersamaa😞😞😘😘",
   "KALAU KETEMU HARUS KISS LAMA YAAAA😔🫶🏻",
-  "kangen banget deehh parah banget kangennya gakebayang kalau gaada teknologi yang namanya watsap😗😛😛🥰🥰🥰"
+  "kangen banget deehh parah banget kangennya gakebayang kalau gaada teknologi yang namanya watsap😗😛😛🥰🥰🥰",
   "dedey tim bubur diaduk atau apit pelukk???😘😘🤗",
   "hay dedey sayang, jempoet akoe di cgk yahh besoom🥰🥰🥰"
 
