@@ -246,16 +246,19 @@ export const pastMessages = [
   "KALAU KETEMU HARUS KISS LAMA YAAAA😔🫶🏻",
   "kangen banget deehh parah banget kangennya gakebayang kalau gaada teknologi yang namanya watsap😗😛😛🥰🥰🥰",
   "dedey tim bubur diaduk atau apit pelukk???😘😘🤗",
-  "hay dedey sayang, jempoet akoe di cgk yahh besoom🥰🥰🥰"
+  "hay dedey sayang, jempoet akoe di cgk yahh besoom🥰🥰🥰",
+  "makasyii yaa sayangkuu sudaa maw jemput apit dari bandaraa huhuhuhu, sangat memorable dan heart touching🥺🥺🫶🏻🫶🏻",
+  "dari ratusan gacha yang apit udah buatt... apit minta maaf ya sayaang sama dedeyy soalnya apit kadang nyebelin dan gajelas, trus dedeyy jadi ngambek which is draining energy dedey banget😔😘",
+  "ini tuh aku yang kecintaan atau dedey yaaa? soalnya samasama suka dan cinta giniii 😘🥰😘😻😘😍",
+  "aku seneng banget bisa ketemu lagi sama dedey kemaren... kaya beneran ke cas banget energi akuuuuuu huhuhu makasyi yaaa🤗🤗🤗🤗"
 
 
 ];
 
 export const messages = [
-  "makasyii yaa sayangkuu sudaa maw jemput apit dari bandaraa huhuhuhu, sangat memorable dan heart touching🥺🥺🫶🏻🫶🏻",
-  "dari ratusan gacha yang apit udah buatt... apit minta maaf ya sayaang sama dedeyy soalnya apit kadang nyebelin dan gajelas, trus dedeyy jadi ngambek which is draining energy dedey banget😔😘",
-  "ini tuh aku yang kecintaan atau dedey yaaa? soalnya samasama suka dan cinta giniii 😘🥰😘😻😘😍",
-  "aku seneng banget bisa ketemu lagi sama dedey kemaren... kaya beneran ke cas banget energi akuuuuuu huhuhu makasyi yaaa🤗🤗🤗🤗"
+  "sayang... kamu... cantik 😻😻😻",
+  "apit lagi 5L... lemah letih lesu lelah lindu lopyuuuu❤️❤️❤️❤️❤️❤️",
+  "apit suka naik tangga tau sayang sebenernya kaya di lrt krl... semoga apit bisa berumah tangga dengan dedey ya sayaang🥺🥺🥰🥰🥰"
 ];
 
 export const openedMessages = new Set();
