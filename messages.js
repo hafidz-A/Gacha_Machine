@@ -250,15 +250,19 @@ export const pastMessages = [
   "makasyii yaa sayangkuu sudaa maw jemput apit dari bandaraa huhuhuhu, sangat memorable dan heart touching🥺🥺🫶🏻🫶🏻",
   "dari ratusan gacha yang apit udah buatt... apit minta maaf ya sayaang sama dedeyy soalnya apit kadang nyebelin dan gajelas, trus dedeyy jadi ngambek which is draining energy dedey banget😔😘",
   "ini tuh aku yang kecintaan atau dedey yaaa? soalnya samasama suka dan cinta giniii 😘🥰😘😻😘😍",
-  "aku seneng banget bisa ketemu lagi sama dedey kemaren... kaya beneran ke cas banget energi akuuuuuu huhuhu makasyi yaaa🤗🤗🤗🤗"
+  "aku seneng banget bisa ketemu lagi sama dedey kemaren... kaya beneran ke cas banget energi akuuuuuu huhuhu makasyi yaaa🤗🤗🤗🤗",
+  "sayang... kamu... cantik 😻😻😻",
+  "apit lagi 5L... lemah letih lesu lelah lindu lopyuuuu❤️❤️❤️❤️❤️❤️",
+  "apit suka naik tangga tau sayang sebenernya kaya di lrt krl... semoga apit bisa berumah tangga dengan dedey ya sayaang🥺🥺🥰🥰🥰"
 
 
 ];
 
 export const messages = [
-  "sayang... kamu... cantik 😻😻😻",
-  "apit lagi 5L... lemah letih lesu lelah lindu lopyuuuu❤️❤️❤️❤️❤️❤️",
-  "apit suka naik tangga tau sayang sebenernya kaya di lrt krl... semoga apit bisa berumah tangga dengan dedey ya sayaang🥺🥺🥰🥰🥰"
+  "kalau nimpa mikir? kalau sayang dedey? tanpa dipikir xixixi🫶🏻🫶🏻",
+  "dedey kasian semalem ga nyenyak bobonyaa... apit kasian banget sama dedey, sehat2 ya sayangkuu:(((🤗",
+  "aku kangen sama wangi kamuu... boleh ga peluk2 sampe wangi dedey nempel di apiit😢😢",
+  "kalau aku ke banjarmasin lagi kamu sedih ga???😮"
 ];
 
 export const openedMessages = new Set();
