@@ -253,16 +253,17 @@ export const pastMessages = [
   "aku seneng banget bisa ketemu lagi sama dedey kemaren... kaya beneran ke cas banget energi akuuuuuu huhuhu makasyi yaaa🤗🤗🤗🤗",
   "sayang... kamu... cantik 😻😻😻",
   "apit lagi 5L... lemah letih lesu lelah lindu lopyuuuu❤️❤️❤️❤️❤️❤️",
-  "apit suka naik tangga tau sayang sebenernya kaya di lrt krl... semoga apit bisa berumah tangga dengan dedey ya sayaang🥺🥺🥰🥰🥰"
-
-
-];
-
-export const messages = [
+  "apit suka naik tangga tau sayang sebenernya kaya di lrt krl... semoga apit bisa berumah tangga dengan dedey ya sayaang🥺🥺🥰🥰🥰",
   "kalau nimpa mikir? kalau sayang dedey? tanpa dipikir xixixi🫶🏻🫶🏻",
   "dedey kasian semalem ga nyenyak bobonyaa... apit kasian banget sama dedey, sehat2 ya sayangkuu:(((🤗",
   "aku kangen sama wangi kamuu... boleh ga peluk2 sampe wangi dedey nempel di apiit😢😢",
   "kalau aku ke banjarmasin lagi kamu sedih ga???😮"
+
+];
+
+export const messages = [
+  "gimanaa first timer naik kereta apiittt??? semoga tidak nyesel yaaa😭😭 nanti naiknya sama apit biar asikkk🫶🏻🫶🏻🥰",
+  "BABYYYYY BESOK KITA KETEMU INSYAAALLAH YEEYYYY😘😘😘😘😘"
 ];
 
 export const openedMessages = new Set();
