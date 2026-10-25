@@ -257,13 +257,16 @@ export const pastMessages = [
   "kalau nimpa mikir? kalau sayang dedey? tanpa dipikir xixixi🫶🏻🫶🏻",
   "dedey kasian semalem ga nyenyak bobonyaa... apit kasian banget sama dedey, sehat2 ya sayangkuu:(((🤗",
   "aku kangen sama wangi kamuu... boleh ga peluk2 sampe wangi dedey nempel di apiit😢😢",
-  "kalau aku ke banjarmasin lagi kamu sedih ga???😮"
-
+  "kalau aku ke banjarmasin lagi kamu sedih ga???😮",
+  "gimanaa first timer naik kereta apiittt??? semoga tidak nyesel yaaa😭😭 nanti naiknya sama apit biar asikkk🫶🏻🫶🏻🥰",
+  "BABYYYYY BESOK KITA KETEMU INSYAAALLAH YEEYYYY😘😘😘😘😘"
 ];
 
 export const messages = [
-  "gimanaa first timer naik kereta apiittt??? semoga tidak nyesel yaaa😭😭 nanti naiknya sama apit biar asikkk🫶🏻🫶🏻🥰",
-  "BABYYYYY BESOK KITA KETEMU INSYAAALLAH YEEYYYY😘😘😘😘😘"
+  "matiin lampu nyalain lilin, hai sayangnya apiit maafin aku kalo nyebelin yaa😘😘🥰",
+  "hai sayang semoga kamuu senang jalan2 ke bandungnyaa... apit sayang dedey selaluu😘🥰😍😻",
+  "aayangku semoga kita bisa cepet ketemu lagiii... kangennya udah tidak terbendung hueeee😭😭😭",
+  "dedey tau ga aku kangen kamu dan aku kangen main game bareng sama kamu🥺 nanti mau main lagi pliis babyy🤗"
 ];
 
 export const openedMessages = new Set();
