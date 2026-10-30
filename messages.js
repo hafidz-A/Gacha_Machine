@@ -263,13 +263,19 @@ export const pastMessages = [
   "matiin lampu nyalain lilin, hai sayangnya apiit maafin aku kalo nyebelin yaa😘😘🥰",
   "hai sayang semoga kamuu senang jalan2 ke bandungnyaa... apit sayang dedey selaluu😘🥰😍😻",
   "aayangku semoga kita bisa cepet ketemu lagiii... kangennya udah tidak terbendung hueeee😭😭😭",
-  "dedey tau ga aku kangen kamu dan aku kangen main game bareng sama kamu🥺 nanti mau main lagi pliis babyy🤗"
+  "dedey tau ga aku kangen kamu dan aku kangen main game bareng sama kamu🥺 nanti mau main lagi pliis babyy🤗",
+    "sayaaang aku butuh vitamin D, dicium disayang dipeluukk ditutututuu muaahhh😘😘😘",
+  "sayaaang kayanya waktu aku di kalimantan sering banget mati lopyu... ehhh mati lampuuu heuheueheh... lopyunya beneran kok tapi😻😻😻😛",
+  "DEDEY SAYANG SEMOGAA DEDEY MOOD LAGI YAA BESOK DAN BESOK DAN BESOKNYA LAGIII😔😔🫶🏻"
 ];
 
 export const messages = [
-  "sayaaang aku butuh vitamin D, dicium disayang dipeluukk ditutututuu muaahhh😘😘😘",
-  "sayaaang kayanya waktu aku di kalimantan sering banget mati lopyu... ehhh mati lampuuu heuheueheh... lopyunya beneran kok tapi😻😻😻😛",
-  "DEDEY SAYANG SEMOGAA DEDEY MOOD LAGI YAA BESOK DAN BESOK DAN BESOKNYA LAGIII😔😔🫶🏻"
+  "dedey sayang semoga besok mainnya beneran jadiiT___T udah kangen banget sayangg mau peluuukkk🥺🥺🥺🥺🥺",
+  "dedey kesukaan apit... dedey punya apiit... mau sama dedey yang lamaaaa lama lamaaa banget😘😘🥰😘😘🥰",
+  "kalau dedey jadi ikan apit tetep sayang dedey? hooooo dedey jadi fish... hafidz??? aku mau jadi ikan juga la kaloo dedey jadi ikan🥺",
+  "good morning good afternoon and goodnight i always love you everytime 😻😻😻😻",
+  "deepsleep atau deepclean? apit milih sleepcall ma dedey ajalaa lebih enak🥺",
+  "tau gaaa apit punya pacar yang cantik banget, baik, sayang sama keluarganya, ngambek kecil kalo ga dituututututututut... namanya DEDEEYYY muaaahhhh😻😻😻😻😻😻😻😻😻😻😻😻😻😻😻😻😻😻😻😻"
 ];
 
 export const openedMessages = new Set();
