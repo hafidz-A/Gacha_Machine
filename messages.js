@@ -282,7 +282,7 @@ export const pastMessages = [
 
 export const messages = [
   "maaf ya sayang aku nyebelin malam tadi tanggal  4 nov 2026... tapi emang aku ga melakukan itu lagi ke selain tece sayangku mohon dipercaya ya sayang😔🫶🏻",
-  "apit sayang dedey dan apit mau sama dedey aja walaupun misal dedey nanti nanya "kenapa ga sama yang kamu deketin waktu itu"... aku tetep milih kamu dari setiap seleksi yang aku lakuin... which is kamu special buatku aku percaya kita bisa bertahan❤️"
+  "apit sayang dedey dan apit mau sama dedey aja walaupun misal dedey nanti nanya 'kenapa ga sama yang kamu deketin waktu itu'... aku tetep milih kamu dari setiap seleksi yang aku lakuin... which is kamu special buatku aku percaya kita bisa bertahan mencintai❤️"
 ];
 
 export const openedMessages = new Set();
