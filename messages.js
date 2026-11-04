@@ -274,14 +274,15 @@ export const pastMessages = [
   "deepsleep atau deepclean? apit milih sleepcall ma dedey ajalaa lebih enak🥺",
   "tau gaaa apit punya pacar yang cantik banget, baik, sayang sama keluarganya, ngambek kecil kalo ga dituututututututut... namanya DEDEEYYY muaaahhhh😻😻😻😻😻😻😻😻😻😻😻😻😻😻😻😻😻😻😻😻",
   "dedey ini kaya antagonis yaa... antara gorgeous atau manis😍😍😍",
-  "apa yang kita lakuin kemaren apit suka semuaaaa... dari pagi sampe malem... apit makin sayang sama dedey😘"
-
-];
-
-export const messages = [
+  "apa yang kita lakuin kemaren apit suka semuaaaa... dari pagi sampe malem... apit makin sayang sama dedey😘",
   "dedey sayang yang cantik yang lucu yang pacar kesayangan apitt yang sayaaaang sayang apitt cepet sembuh yaaa biar bisa main ma apitt lagiii🫶🏻🫶🏻🫶🏻😢",
   "siapa suka hati tepuk tangan...prokprokprok, siapa suka apit cium apit 😗😗😗, siapa suka dedey dan memang suka dedey apit akan cium dedey banyak2😘😘😘😘",
   "smoga kita bisa nikah dengan selamat, lancar, sukses, dan diridhoi Allah serta orang tua kita berdua sayang... aamiin😔🥰"
+];
+
+export const messages = [
+  "maaf ya sayang aku nyebelin malam tadi tanggal  4 nov 2026... tapi emang aku ga melakukan itu lagi ke selain tece sayangku mohon dipercaya ya sayang😔🫶🏻",
+  "apit sayang dedey dan apit mau sama dedey aja ealaupun dedey nanti nanya kenapa ga sama yang kamu deketin waktu itu... aku tetep milih kamu dari setiap seleksi yang aku lakuin... which is kamu special❤️"
 ];
 
 export const openedMessages = new Set();
