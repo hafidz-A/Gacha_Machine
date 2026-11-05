@@ -281,8 +281,8 @@ export const pastMessages = [
 ];
 
 export const messages = [
-  "maaf ya sayang aku nyebelin malam tadi tanggal  4 nov 2026... tapi emang aku ga melakukan itu lagi ke selain tece sayangku mohon dipercaya ya sayang😔🫶🏻",
-  "apit sayang dedey dan apit mau sama dedey aja walaupun misal dedey nanti nanya 'kenapa ga sama yang kamu deketin waktu itu'... aku tetep milih kamu dari setiap seleksi yang aku lakuin... which is kamu special buatku aku percaya kita bisa bertahan mencintai❤️"
+  "aku suka liat dedey pake baju rumbai rumbai pink itu... dedey lucuu bangettt apit pengen peluk sekarang juga🥰🥰🥰",
+  "dedey sayaang, kalo apit wangii banget dedey mau apit wangi kaya gimana? kalo apit cium dedey apit mau cium wangi original dedey aja... aku suka bangett beneran deehh🫶🏻🫶🏻🫶🏻🫶🏻"
 ];
 
 export const openedMessages = new Set();
