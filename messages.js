@@ -277,12 +277,14 @@ export const pastMessages = [
   "apa yang kita lakuin kemaren apit suka semuaaaa... dari pagi sampe malem... apit makin sayang sama dedey😘",
   "dedey sayang yang cantik yang lucu yang pacar kesayangan apitt yang sayaaaang sayang apitt cepet sembuh yaaa biar bisa main ma apitt lagiii🫶🏻🫶🏻🫶🏻😢",
   "siapa suka hati tepuk tangan...prokprokprok, siapa suka apit cium apit 😗😗😗, siapa suka dedey dan memang suka dedey apit akan cium dedey banyak2😘😘😘😘",
-  "smoga kita bisa nikah dengan selamat, lancar, sukses, dan diridhoi Allah serta orang tua kita berdua sayang... aamiin😔🥰"
+  "smoga kita bisa nikah dengan selamat, lancar, sukses, dan diridhoi Allah serta orang tua kita berdua sayang... aamiin😔🥰",
+  "aku suka liat dedey pake baju rumbai rumbai pink itu... dedey lucuu bangettt apit pengen peluk sekarang juga🥰🥰🥰",
+  "dedey sayaang, kalo apit wangii banget dedey mau apit wangi kaya gimana? kalo apit cium dedey apit mau cium wangi original dedey aja... aku suka bangett beneran deehh🫶🏻🫶🏻🫶🏻🫶🏻"
 ];
 
 export const messages = [
-  "aku suka liat dedey pake baju rumbai rumbai pink itu... dedey lucuu bangettt apit pengen peluk sekarang juga🥰🥰🥰",
-  "dedey sayaang, kalo apit wangii banget dedey mau apit wangi kaya gimana? kalo apit cium dedey apit mau cium wangi original dedey aja... aku suka bangett beneran deehh🫶🏻🫶🏻🫶🏻🫶🏻"
+  "kalo kita ketemu bisa ga sih nyapa nya langsung ciuman ajaa gausah hai hai hai😔😔 kangen lohhhhh😣😻",
+  "kok rasanya aku pengen bareng terus aja ya sama dedey... sedih banget kalo harus jauhan terus tuh🫠"
 ];
 
 export const openedMessages = new Set();
